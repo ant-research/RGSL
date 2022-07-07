@@ -1,0 +1,1295 @@
+2021-09-02 07:28: Experiment log path in: /home/S_belongie/microsoft/rgsl/model/experiments/PEMSD4/20210902072858
+2021-09-02 07:28: Train Epoch 1: 0/158 Loss: 189.192490 rebuild Loss: 0.000000 Total: 189.192490
+2021-09-02 07:29: Train Epoch 1: 20/158 Loss: 219.979279 rebuild Loss: 0.000000 Total: 219.979279
+2021-09-02 07:29: Train Epoch 1: 40/158 Loss: 207.157516 rebuild Loss: 0.000000 Total: 207.157516
+2021-09-02 07:29: Train Epoch 1: 60/158 Loss: 176.025360 rebuild Loss: 0.000000 Total: 176.025360
+2021-09-02 07:29: Train Epoch 1: 80/158 Loss: 190.295883 rebuild Loss: 0.000000 Total: 190.295883
+2021-09-02 07:29: Train Epoch 1: 100/158 Loss: 175.028763 rebuild Loss: 0.000000 Total: 175.028763
+2021-09-02 07:29: Train Epoch 1: 120/158 Loss: 203.718292 rebuild Loss: 0.000000 Total: 203.718292
+2021-09-02 07:29: Train Epoch 1: 140/158 Loss: 178.956879 rebuild Loss: 0.000000 Total: 178.956879
+2021-09-02 07:29: **********Train Epoch 1: averaged Loss: 191.965706, tf_ratio: 1.000000
+2021-09-02 07:30: **********Val Epoch 1: average Loss: 192.939360
+2021-09-02 07:30: ##################EMA####################
+2021-09-02 07:30: **********Val Epoch 1: average Loss: 219.490534
+2021-09-02 07:30: *********************************Current best model saved!
+2021-09-02 07:30: Train Epoch 2: 0/158 Loss: 177.278107 rebuild Loss: 0.000000 Total: 177.278107
+2021-09-02 07:30: Train Epoch 2: 20/158 Loss: 163.761948 rebuild Loss: 0.000000 Total: 163.761948
+2021-09-02 07:30: Train Epoch 2: 40/158 Loss: 171.856003 rebuild Loss: 0.000000 Total: 171.856003
+2021-09-02 07:30: Train Epoch 2: 60/158 Loss: 176.291824 rebuild Loss: 0.000000 Total: 176.291824
+2021-09-02 07:30: Train Epoch 2: 80/158 Loss: 155.851257 rebuild Loss: 0.000000 Total: 155.851257
+2021-09-02 07:30: Train Epoch 2: 100/158 Loss: 146.665512 rebuild Loss: 0.000000 Total: 146.665512
+2021-09-02 07:30: Train Epoch 2: 120/158 Loss: 168.477036 rebuild Loss: 0.000000 Total: 168.477036
+2021-09-02 07:30: Train Epoch 2: 140/158 Loss: 160.439133 rebuild Loss: 0.000000 Total: 160.439133
+2021-09-02 07:31: **********Train Epoch 2: averaged Loss: 168.701461, tf_ratio: 1.000000
+2021-09-02 07:31: **********Val Epoch 2: average Loss: 173.883737
+2021-09-02 07:31: ##################EMA####################
+2021-09-02 07:31: **********Val Epoch 2: average Loss: 213.962826
+2021-09-02 07:31: *********************************Current best model saved!
+2021-09-02 07:31: Train Epoch 3: 0/158 Loss: 169.999146 rebuild Loss: 0.000000 Total: 169.999146
+2021-09-02 07:31: Train Epoch 3: 20/158 Loss: 153.930481 rebuild Loss: 0.000000 Total: 153.930481
+2021-09-02 07:31: Train Epoch 3: 40/158 Loss: 147.627945 rebuild Loss: 0.000000 Total: 147.627945
+2021-09-02 07:31: Train Epoch 3: 60/158 Loss: 149.486328 rebuild Loss: 0.000000 Total: 149.486328
+2021-09-02 07:31: Train Epoch 3: 80/158 Loss: 125.930504 rebuild Loss: 0.000000 Total: 125.930504
+2021-09-02 07:31: Train Epoch 3: 100/158 Loss: 152.387512 rebuild Loss: 0.000000 Total: 152.387512
+2021-09-02 07:31: Train Epoch 3: 120/158 Loss: 145.883759 rebuild Loss: 0.000000 Total: 145.883759
+2021-09-02 07:32: Train Epoch 3: 140/158 Loss: 142.171768 rebuild Loss: 0.000000 Total: 142.171768
+2021-09-02 07:32: **********Train Epoch 3: averaged Loss: 153.411121, tf_ratio: 1.000000
+2021-09-02 07:32: **********Val Epoch 3: average Loss: 160.276318
+2021-09-02 07:32: ##################EMA####################
+2021-09-02 07:32: **********Val Epoch 3: average Loss: 205.870780
+2021-09-02 07:32: *********************************Current best model saved!
+2021-09-02 07:32: Train Epoch 4: 0/158 Loss: 132.858612 rebuild Loss: 0.000000 Total: 132.858612
+2021-09-02 07:32: Train Epoch 4: 20/158 Loss: 120.653725 rebuild Loss: 0.000000 Total: 120.653725
+2021-09-02 07:32: Train Epoch 4: 40/158 Loss: 164.342819 rebuild Loss: 0.000000 Total: 164.342819
+2021-09-02 07:32: Train Epoch 4: 60/158 Loss: 131.933853 rebuild Loss: 0.000000 Total: 131.933853
+2021-09-02 07:32: Train Epoch 4: 80/158 Loss: 121.782173 rebuild Loss: 0.000000 Total: 121.782173
+2021-09-02 07:32: Train Epoch 4: 100/158 Loss: 119.929176 rebuild Loss: 0.000000 Total: 119.929176
+2021-09-02 07:32: Train Epoch 4: 120/158 Loss: 142.646454 rebuild Loss: 0.000000 Total: 142.646454
+2021-09-02 07:33: Train Epoch 4: 140/158 Loss: 148.480118 rebuild Loss: 0.000000 Total: 148.480118
+2021-09-02 07:33: **********Train Epoch 4: averaged Loss: 142.934529, tf_ratio: 1.000000
+2021-09-02 07:33: **********Val Epoch 4: average Loss: 150.657445
+2021-09-02 07:33: ##################EMA####################
+2021-09-02 07:33: **********Val Epoch 4: average Loss: 196.350245
+2021-09-02 07:33: *********************************Current best model saved!
+2021-09-02 07:33: Train Epoch 5: 0/158 Loss: 132.588547 rebuild Loss: 0.000000 Total: 132.588547
+2021-09-02 07:33: Train Epoch 5: 20/158 Loss: 143.828445 rebuild Loss: 0.000000 Total: 143.828445
+2021-09-02 07:33: Train Epoch 5: 40/158 Loss: 142.337341 rebuild Loss: 0.000000 Total: 142.337341
+2021-09-02 07:33: Train Epoch 5: 60/158 Loss: 139.094131 rebuild Loss: 0.000000 Total: 139.094131
+2021-09-02 07:33: Train Epoch 5: 80/158 Loss: 114.721191 rebuild Loss: 0.000000 Total: 114.721191
+2021-09-02 07:34: Train Epoch 5: 100/158 Loss: 135.739395 rebuild Loss: 0.000000 Total: 135.739395
+2021-09-02 07:34: Train Epoch 5: 120/158 Loss: 118.102173 rebuild Loss: 0.000000 Total: 118.102173
+2021-09-02 07:34: Train Epoch 5: 140/158 Loss: 129.430298 rebuild Loss: 0.000000 Total: 129.430298
+2021-09-02 07:34: **********Train Epoch 5: averaged Loss: 135.780221, tf_ratio: 1.000000
+2021-09-02 07:34: **********Val Epoch 5: average Loss: 143.279865
+2021-09-02 07:34: ##################EMA####################
+2021-09-02 07:34: **********Val Epoch 5: average Loss: 186.509600
+2021-09-02 07:34: *********************************Current best model saved!
+2021-09-02 07:34: Train Epoch 6: 0/158 Loss: 146.044006 rebuild Loss: 0.000000 Total: 146.044006
+2021-09-02 07:34: Train Epoch 6: 20/158 Loss: 142.930054 rebuild Loss: 0.000000 Total: 142.930054
+2021-09-02 07:34: Train Epoch 6: 40/158 Loss: 119.387917 rebuild Loss: 0.000000 Total: 119.387917
+2021-09-02 07:34: Train Epoch 6: 60/158 Loss: 121.463142 rebuild Loss: 0.000000 Total: 121.463142
+2021-09-02 07:35: Train Epoch 6: 80/158 Loss: 105.368729 rebuild Loss: 0.000000 Total: 105.368729
+2021-09-02 07:35: Train Epoch 6: 100/158 Loss: 110.660103 rebuild Loss: 0.000000 Total: 110.660103
+2021-09-02 07:35: Train Epoch 6: 120/158 Loss: 106.545616 rebuild Loss: 0.000000 Total: 106.545616
+2021-09-02 07:35: Train Epoch 6: 140/158 Loss: 107.345360 rebuild Loss: 0.000000 Total: 107.345360
+2021-09-02 07:35: **********Train Epoch 6: averaged Loss: 112.286146, tf_ratio: 1.000000
+2021-09-02 07:35: **********Val Epoch 6: average Loss: 111.594698
+2021-09-02 07:35: ##################EMA####################
+2021-09-02 07:35: **********Val Epoch 6: average Loss: 176.669611
+2021-09-02 07:35: *********************************Current best model saved!
+2021-09-02 07:35: Train Epoch 7: 0/158 Loss: 89.815865 rebuild Loss: 0.000000 Total: 89.815865
+2021-09-02 07:35: Train Epoch 7: 20/158 Loss: 79.992111 rebuild Loss: 0.000000 Total: 79.992111
+2021-09-02 07:35: Train Epoch 7: 40/158 Loss: 90.714188 rebuild Loss: 0.000000 Total: 90.714188
+2021-09-02 07:36: Train Epoch 7: 60/158 Loss: 101.928673 rebuild Loss: 0.000000 Total: 101.928673
+2021-09-02 07:36: Train Epoch 7: 80/158 Loss: 96.156021 rebuild Loss: 0.000000 Total: 96.156021
+2021-09-02 07:36: Train Epoch 7: 100/158 Loss: 105.010475 rebuild Loss: 0.000000 Total: 105.010475
+2021-09-02 07:36: Train Epoch 7: 120/158 Loss: 96.076813 rebuild Loss: 0.000000 Total: 96.076813
+2021-09-02 07:36: Train Epoch 7: 140/158 Loss: 94.591087 rebuild Loss: 0.000000 Total: 94.591087
+2021-09-02 07:36: **********Train Epoch 7: averaged Loss: 93.034006, tf_ratio: 1.000000
+2021-09-02 07:36: **********Val Epoch 7: average Loss: 96.632252
+2021-09-02 07:36: ##################EMA####################
+2021-09-02 07:36: **********Val Epoch 7: average Loss: 166.862025
+2021-09-02 07:36: *********************************Current best model saved!
+2021-09-02 07:36: Train Epoch 8: 0/158 Loss: 90.383926 rebuild Loss: 0.000000 Total: 90.383926
+2021-09-02 07:36: Train Epoch 8: 20/158 Loss: 95.225014 rebuild Loss: 0.000000 Total: 95.225014
+2021-09-02 07:37: Train Epoch 8: 40/158 Loss: 92.793945 rebuild Loss: 0.000000 Total: 92.793945
+2021-09-02 07:37: Train Epoch 8: 60/158 Loss: 77.923607 rebuild Loss: 0.000000 Total: 77.923607
+2021-09-02 07:37: Train Epoch 8: 80/158 Loss: 81.615974 rebuild Loss: 0.000000 Total: 81.615974
+2021-09-02 07:37: Train Epoch 8: 100/158 Loss: 71.790344 rebuild Loss: 0.000000 Total: 71.790344
+2021-09-02 07:37: Train Epoch 8: 120/158 Loss: 75.521278 rebuild Loss: 0.000000 Total: 75.521278
+2021-09-02 07:37: Train Epoch 8: 140/158 Loss: 84.424438 rebuild Loss: 0.000000 Total: 84.424438
+2021-09-02 07:37: **********Train Epoch 8: averaged Loss: 80.945688, tf_ratio: 1.000000
+2021-09-02 07:37: **********Val Epoch 8: average Loss: 85.260550
+2021-09-02 07:37: ##################EMA####################
+2021-09-02 07:37: **********Val Epoch 8: average Loss: 157.396331
+2021-09-02 07:37: *********************************Current best model saved!
+2021-09-02 07:37: Train Epoch 9: 0/158 Loss: 75.463371 rebuild Loss: 0.000000 Total: 75.463371
+2021-09-02 07:38: Train Epoch 9: 20/158 Loss: 68.266479 rebuild Loss: 0.000000 Total: 68.266479
+2021-09-02 07:38: Train Epoch 9: 40/158 Loss: 71.180244 rebuild Loss: 0.000000 Total: 71.180244
+2021-09-02 07:38: Train Epoch 9: 60/158 Loss: 85.191750 rebuild Loss: 0.000000 Total: 85.191750
+2021-09-02 07:38: Train Epoch 9: 80/158 Loss: 75.140434 rebuild Loss: 0.000000 Total: 75.140434
+2021-09-02 07:38: Train Epoch 9: 100/158 Loss: 69.076263 rebuild Loss: 0.000000 Total: 69.076263
+2021-09-02 07:38: Train Epoch 9: 120/158 Loss: 66.173744 rebuild Loss: 0.000000 Total: 66.173744
+2021-09-02 07:38: Train Epoch 9: 140/158 Loss: 66.198952 rebuild Loss: 0.000000 Total: 66.198952
+2021-09-02 07:38: **********Train Epoch 9: averaged Loss: 71.526570, tf_ratio: 1.000000
+2021-09-02 07:39: **********Val Epoch 9: average Loss: 75.896451
+2021-09-02 07:39: ##################EMA####################
+2021-09-02 07:39: **********Val Epoch 9: average Loss: 147.572122
+2021-09-02 07:39: *********************************Current best model saved!
+2021-09-02 07:39: Train Epoch 10: 0/158 Loss: 66.044243 rebuild Loss: 0.000000 Total: 66.044243
+2021-09-02 07:39: Train Epoch 10: 20/158 Loss: 73.123970 rebuild Loss: 0.000000 Total: 73.123970
+2021-09-02 07:39: Train Epoch 10: 40/158 Loss: 75.427460 rebuild Loss: 0.000000 Total: 75.427460
+2021-09-02 07:39: Train Epoch 10: 60/158 Loss: 64.348747 rebuild Loss: 0.000000 Total: 64.348747
+2021-09-02 07:39: Train Epoch 10: 80/158 Loss: 72.201683 rebuild Loss: 0.000000 Total: 72.201683
+2021-09-02 07:39: Train Epoch 10: 100/158 Loss: 60.257423 rebuild Loss: 0.000000 Total: 60.257423
+2021-09-02 07:39: Train Epoch 10: 120/158 Loss: 56.863232 rebuild Loss: 0.000000 Total: 56.863232
+2021-09-02 07:39: Train Epoch 10: 140/158 Loss: 59.396610 rebuild Loss: 0.000000 Total: 59.396610
+2021-09-02 07:40: **********Train Epoch 10: averaged Loss: 63.969131, tf_ratio: 1.000000
+2021-09-02 07:40: **********Val Epoch 10: average Loss: 68.033151
+2021-09-02 07:40: ##################EMA####################
+2021-09-02 07:40: **********Val Epoch 10: average Loss: 132.824048
+2021-09-02 07:40: *********************************Current best model saved!
+2021-09-02 07:40: Train Epoch 11: 0/158 Loss: 63.978317 rebuild Loss: 0.000000 Total: 63.978317
+2021-09-02 07:40: Train Epoch 11: 20/158 Loss: 57.342361 rebuild Loss: 0.000000 Total: 57.342361
+2021-09-02 07:40: Train Epoch 11: 40/158 Loss: 55.078003 rebuild Loss: 0.000000 Total: 55.078003
+2021-09-02 07:40: Train Epoch 11: 60/158 Loss: 63.926746 rebuild Loss: 0.000000 Total: 63.926746
+2021-09-02 07:40: Train Epoch 11: 80/158 Loss: 70.356041 rebuild Loss: 0.000000 Total: 70.356041
+2021-09-02 07:40: Train Epoch 11: 100/158 Loss: 53.253368 rebuild Loss: 0.000000 Total: 53.253368
+2021-09-02 07:40: Train Epoch 11: 120/158 Loss: 51.778755 rebuild Loss: 0.000000 Total: 51.778755
+2021-09-02 07:41: Train Epoch 11: 140/158 Loss: 52.325443 rebuild Loss: 0.000000 Total: 52.325443
+2021-09-02 07:41: **********Train Epoch 11: averaged Loss: 57.395476, tf_ratio: 1.000000
+2021-09-02 07:41: **********Val Epoch 11: average Loss: 61.477008
+2021-09-02 07:41: ##################EMA####################
+2021-09-02 07:41: **********Val Epoch 11: average Loss: 119.281716
+2021-09-02 07:41: *********************************Current best model saved!
+2021-09-02 07:41: Train Epoch 12: 0/158 Loss: 46.253963 rebuild Loss: 0.000000 Total: 46.253963
+2021-09-02 07:41: Train Epoch 12: 20/158 Loss: 54.226097 rebuild Loss: 0.000000 Total: 54.226097
+2021-09-02 07:41: Train Epoch 12: 40/158 Loss: 59.562580 rebuild Loss: 0.000000 Total: 59.562580
+2021-09-02 07:41: Train Epoch 12: 60/158 Loss: 55.869968 rebuild Loss: 0.000000 Total: 55.869968
+2021-09-02 07:41: Train Epoch 12: 80/158 Loss: 48.208843 rebuild Loss: 0.000000 Total: 48.208843
+2021-09-02 07:41: Train Epoch 12: 100/158 Loss: 58.698318 rebuild Loss: 0.000000 Total: 58.698318
+2021-09-02 07:42: Train Epoch 12: 120/158 Loss: 56.112572 rebuild Loss: 0.000000 Total: 56.112572
+2021-09-02 07:42: Train Epoch 12: 140/158 Loss: 53.705181 rebuild Loss: 0.000000 Total: 53.705181
+2021-09-02 07:42: **********Train Epoch 12: averaged Loss: 51.811911, tf_ratio: 1.000000
+2021-09-02 07:42: **********Val Epoch 12: average Loss: 55.784659
+2021-09-02 07:42: ##################EMA####################
+2021-09-02 07:42: **********Val Epoch 12: average Loss: 107.261166
+2021-09-02 07:42: *********************************Current best model saved!
+2021-09-02 07:42: Train Epoch 13: 0/158 Loss: 46.384850 rebuild Loss: 0.000000 Total: 46.384850
+2021-09-02 07:42: Train Epoch 13: 20/158 Loss: 46.691162 rebuild Loss: 0.000000 Total: 46.691162
+2021-09-02 07:42: Train Epoch 13: 40/158 Loss: 48.698547 rebuild Loss: 0.000000 Total: 48.698547
+2021-09-02 07:42: Train Epoch 13: 60/158 Loss: 41.149654 rebuild Loss: 0.000000 Total: 41.149654
+2021-09-02 07:43: Train Epoch 13: 80/158 Loss: 45.250221 rebuild Loss: 0.000000 Total: 45.250221
+2021-09-02 07:43: Train Epoch 13: 100/158 Loss: 45.117775 rebuild Loss: 0.000000 Total: 45.117775
+2021-09-02 07:43: Train Epoch 13: 120/158 Loss: 50.172539 rebuild Loss: 0.000000 Total: 50.172539
+2021-09-02 07:43: Train Epoch 13: 140/158 Loss: 46.588627 rebuild Loss: 0.000000 Total: 46.588627
+2021-09-02 07:43: **********Train Epoch 13: averaged Loss: 47.054292, tf_ratio: 1.000000
+2021-09-02 07:43: **********Val Epoch 13: average Loss: 50.584005
+2021-09-02 07:43: ##################EMA####################
+2021-09-02 07:43: **********Val Epoch 13: average Loss: 96.784288
+2021-09-02 07:43: *********************************Current best model saved!
+2021-09-02 07:43: Train Epoch 14: 0/158 Loss: 42.938126 rebuild Loss: 0.000000 Total: 42.938126
+2021-09-02 07:43: Train Epoch 14: 20/158 Loss: 41.093384 rebuild Loss: 0.000000 Total: 41.093384
+2021-09-02 07:43: Train Epoch 14: 40/158 Loss: 43.289204 rebuild Loss: 0.000000 Total: 43.289204
+2021-09-02 07:44: Train Epoch 14: 60/158 Loss: 45.344933 rebuild Loss: 0.000000 Total: 45.344933
+2021-09-02 07:44: Train Epoch 14: 80/158 Loss: 44.426094 rebuild Loss: 0.000000 Total: 44.426094
+2021-09-02 07:44: Train Epoch 14: 100/158 Loss: 37.873745 rebuild Loss: 0.000000 Total: 37.873745
+2021-09-02 07:44: Train Epoch 14: 120/158 Loss: 39.279896 rebuild Loss: 0.000000 Total: 39.279896
+2021-09-02 07:44: Train Epoch 14: 140/158 Loss: 45.912098 rebuild Loss: 0.000000 Total: 45.912098
+2021-09-02 07:44: **********Train Epoch 14: averaged Loss: 43.035280, tf_ratio: 1.000000
+2021-09-02 07:44: **********Val Epoch 14: average Loss: 46.255024
+2021-09-02 07:44: ##################EMA####################
+2021-09-02 07:44: **********Val Epoch 14: average Loss: 87.530154
+2021-09-02 07:44: *********************************Current best model saved!
+2021-09-02 07:44: Train Epoch 15: 0/158 Loss: 45.013145 rebuild Loss: 0.000000 Total: 45.013145
+2021-09-02 07:44: Train Epoch 15: 20/158 Loss: 40.221809 rebuild Loss: 0.000000 Total: 40.221809
+2021-09-02 07:44: Train Epoch 15: 40/158 Loss: 43.029049 rebuild Loss: 0.000000 Total: 43.029049
+2021-09-02 07:45: Train Epoch 15: 60/158 Loss: 37.284145 rebuild Loss: 0.000000 Total: 37.284145
+2021-09-02 07:45: Train Epoch 15: 80/158 Loss: 41.651028 rebuild Loss: 0.000000 Total: 41.651028
+2021-09-02 07:45: Train Epoch 15: 100/158 Loss: 37.200413 rebuild Loss: 0.000000 Total: 37.200413
+2021-09-02 07:45: Train Epoch 15: 120/158 Loss: 33.577045 rebuild Loss: 0.000000 Total: 33.577045
+2021-09-02 07:45: Train Epoch 15: 140/158 Loss: 34.844372 rebuild Loss: 0.000000 Total: 34.844372
+2021-09-02 07:45: **********Train Epoch 15: averaged Loss: 39.502150, tf_ratio: 1.000000
+2021-09-02 07:45: **********Val Epoch 15: average Loss: 42.758870
+2021-09-02 07:45: ##################EMA####################
+2021-09-02 07:45: **********Val Epoch 15: average Loss: 79.273463
+2021-09-02 07:45: *********************************Current best model saved!
+2021-09-02 07:45: Train Epoch 16: 0/158 Loss: 37.928192 rebuild Loss: 0.000000 Total: 37.928192
+2021-09-02 07:45: Train Epoch 16: 20/158 Loss: 36.379951 rebuild Loss: 0.000000 Total: 36.379951
+2021-09-02 07:46: Train Epoch 16: 40/158 Loss: 36.994713 rebuild Loss: 0.000000 Total: 36.994713
+2021-09-02 07:46: Train Epoch 16: 60/158 Loss: 35.639149 rebuild Loss: 0.000000 Total: 35.639149
+2021-09-02 07:46: Train Epoch 16: 80/158 Loss: 31.935179 rebuild Loss: 0.000000 Total: 31.935179
+2021-09-02 07:46: Train Epoch 16: 100/158 Loss: 35.938263 rebuild Loss: 0.000000 Total: 35.938263
+2021-09-02 07:46: Train Epoch 16: 120/158 Loss: 36.410229 rebuild Loss: 0.000000 Total: 36.410229
+2021-09-02 07:46: Train Epoch 16: 140/158 Loss: 32.236198 rebuild Loss: 0.000000 Total: 32.236198
+2021-09-02 07:46: **********Train Epoch 16: averaged Loss: 36.673236, tf_ratio: 1.000000
+2021-09-02 07:46: **********Val Epoch 16: average Loss: 39.878625
+2021-09-02 07:46: ##################EMA####################
+2021-09-02 07:47: **********Val Epoch 16: average Loss: 71.860459
+2021-09-02 07:47: *********************************Current best model saved!
+2021-09-02 07:47: Train Epoch 17: 0/158 Loss: 36.715958 rebuild Loss: 0.000000 Total: 36.715958
+2021-09-02 07:47: Train Epoch 17: 20/158 Loss: 33.166756 rebuild Loss: 0.000000 Total: 33.166756
+2021-09-02 07:47: Train Epoch 17: 40/158 Loss: 35.957512 rebuild Loss: 0.000000 Total: 35.957512
+2021-09-02 07:47: Train Epoch 17: 60/158 Loss: 34.240952 rebuild Loss: 0.000000 Total: 34.240952
+2021-09-02 07:47: Train Epoch 17: 80/158 Loss: 33.412735 rebuild Loss: 0.000000 Total: 33.412735
+2021-09-02 07:47: Train Epoch 17: 100/158 Loss: 32.454647 rebuild Loss: 0.000000 Total: 32.454647
+2021-09-02 07:47: Train Epoch 17: 120/158 Loss: 32.108990 rebuild Loss: 0.000000 Total: 32.108990
+2021-09-02 07:47: Train Epoch 17: 140/158 Loss: 34.835560 rebuild Loss: 0.000000 Total: 34.835560
+2021-09-02 07:47: **********Train Epoch 17: averaged Loss: 34.100796, tf_ratio: 1.000000
+2021-09-02 07:48: **********Val Epoch 17: average Loss: 36.841248
+2021-09-02 07:48: ##################EMA####################
+2021-09-02 07:48: **********Val Epoch 17: average Loss: 65.282379
+2021-09-02 07:48: *********************************Current best model saved!
+2021-09-02 07:48: Train Epoch 18: 0/158 Loss: 33.085739 rebuild Loss: 0.000000 Total: 33.085739
+2021-09-02 07:48: Train Epoch 18: 20/158 Loss: 29.796873 rebuild Loss: 0.000000 Total: 29.796873
+2021-09-02 07:48: Train Epoch 18: 40/158 Loss: 37.030293 rebuild Loss: 0.000000 Total: 37.030293
+2021-09-02 07:48: Train Epoch 18: 60/158 Loss: 32.078850 rebuild Loss: 0.000000 Total: 32.078850
+2021-09-02 07:48: Train Epoch 18: 80/158 Loss: 35.319424 rebuild Loss: 0.000000 Total: 35.319424
+2021-09-02 07:48: Train Epoch 18: 100/158 Loss: 33.562893 rebuild Loss: 0.000000 Total: 33.562893
+2021-09-02 07:48: Train Epoch 18: 120/158 Loss: 31.884132 rebuild Loss: 0.000000 Total: 31.884132
+2021-09-02 07:49: Train Epoch 18: 140/158 Loss: 31.546358 rebuild Loss: 0.000000 Total: 31.546358
+2021-09-02 07:49: **********Train Epoch 18: averaged Loss: 31.956985, tf_ratio: 1.000000
+2021-09-02 07:49: **********Val Epoch 18: average Loss: 34.438755
+2021-09-02 07:49: ##################EMA####################
+2021-09-02 07:49: **********Val Epoch 18: average Loss: 59.489091
+2021-09-02 07:49: *********************************Current best model saved!
+2021-09-02 07:49: Train Epoch 19: 0/158 Loss: 29.310181 rebuild Loss: 0.000000 Total: 29.310181
+2021-09-02 07:49: Train Epoch 19: 20/158 Loss: 29.889181 rebuild Loss: 0.000000 Total: 29.889181
+2021-09-02 07:49: Train Epoch 19: 40/158 Loss: 32.510838 rebuild Loss: 0.000000 Total: 32.510838
+2021-09-02 07:49: Train Epoch 19: 60/158 Loss: 29.178526 rebuild Loss: 0.000000 Total: 29.178526
+2021-09-02 07:49: Train Epoch 19: 80/158 Loss: 29.846977 rebuild Loss: 0.000000 Total: 29.846977
+2021-09-02 07:49: Train Epoch 19: 100/158 Loss: 28.717558 rebuild Loss: 0.000000 Total: 28.717558
+2021-09-02 07:50: Train Epoch 19: 120/158 Loss: 30.596256 rebuild Loss: 0.000000 Total: 30.596256
+2021-09-02 07:50: Train Epoch 19: 140/158 Loss: 28.987778 rebuild Loss: 0.000000 Total: 28.987778
+2021-09-02 07:50: **********Train Epoch 19: averaged Loss: 30.165264, tf_ratio: 1.000000
+2021-09-02 07:50: **********Val Epoch 19: average Loss: 32.839419
+2021-09-02 07:50: ##################EMA####################
+2021-09-02 07:50: **********Val Epoch 19: average Loss: 54.409665
+2021-09-02 07:50: *********************************Current best model saved!
+2021-09-02 07:50: Train Epoch 20: 0/158 Loss: 28.377457 rebuild Loss: 0.000000 Total: 28.377457
+2021-09-02 07:50: Train Epoch 20: 20/158 Loss: 24.954235 rebuild Loss: 0.000000 Total: 24.954235
+2021-09-02 07:50: Train Epoch 20: 40/158 Loss: 28.834654 rebuild Loss: 0.000000 Total: 28.834654
+2021-09-02 07:50: Train Epoch 20: 60/158 Loss: 28.326599 rebuild Loss: 0.000000 Total: 28.326599
+2021-09-02 07:50: Train Epoch 20: 80/158 Loss: 29.816662 rebuild Loss: 0.000000 Total: 29.816662
+2021-09-02 07:51: Train Epoch 20: 100/158 Loss: 26.332682 rebuild Loss: 0.000000 Total: 26.332682
+2021-09-02 07:51: Train Epoch 20: 120/158 Loss: 26.524490 rebuild Loss: 0.000000 Total: 26.524490
+2021-09-02 07:51: Train Epoch 20: 140/158 Loss: 30.179697 rebuild Loss: 0.000000 Total: 30.179697
+2021-09-02 07:51: **********Train Epoch 20: averaged Loss: 28.711340, tf_ratio: 1.000000
+2021-09-02 07:51: **********Val Epoch 20: average Loss: 31.260686
+2021-09-02 07:51: ##################EMA####################
+2021-09-02 07:51: **********Val Epoch 20: average Loss: 49.950413
+2021-09-02 07:51: *********************************Current best model saved!
+2021-09-02 07:51: Train Epoch 21: 0/158 Loss: 27.922903 rebuild Loss: 0.000000 Total: 27.922903
+2021-09-02 07:51: Train Epoch 21: 20/158 Loss: 28.248644 rebuild Loss: 0.000000 Total: 28.248644
+2021-09-02 07:51: Train Epoch 21: 40/158 Loss: 27.433828 rebuild Loss: 0.000000 Total: 27.433828
+2021-09-02 07:51: Train Epoch 21: 60/158 Loss: 25.151039 rebuild Loss: 0.000000 Total: 25.151039
+2021-09-02 07:52: Train Epoch 21: 80/158 Loss: 27.180742 rebuild Loss: 0.000000 Total: 27.180742
+2021-09-02 07:52: Train Epoch 21: 100/158 Loss: 25.643538 rebuild Loss: 0.000000 Total: 25.643538
+2021-09-02 07:52: Train Epoch 21: 120/158 Loss: 25.894810 rebuild Loss: 0.000000 Total: 25.894810
+2021-09-02 07:52: Train Epoch 21: 140/158 Loss: 26.609745 rebuild Loss: 0.000000 Total: 26.609745
+2021-09-02 07:52: **********Train Epoch 21: averaged Loss: 27.423732, tf_ratio: 1.000000
+2021-09-02 07:52: **********Val Epoch 21: average Loss: 29.823374
+2021-09-02 07:52: ##################EMA####################
+2021-09-02 07:52: **********Val Epoch 21: average Loss: 46.077235
+2021-09-02 07:52: *********************************Current best model saved!
+2021-09-02 07:52: Train Epoch 22: 0/158 Loss: 23.247524 rebuild Loss: 0.000000 Total: 23.247524
+2021-09-02 07:52: Train Epoch 22: 20/158 Loss: 28.257618 rebuild Loss: 0.000000 Total: 28.257618
+2021-09-02 07:52: Train Epoch 22: 40/158 Loss: 28.842928 rebuild Loss: 0.000000 Total: 28.842928
+2021-09-02 07:53: Train Epoch 22: 60/158 Loss: 25.690678 rebuild Loss: 0.000000 Total: 25.690678
+2021-09-02 07:53: Train Epoch 22: 80/158 Loss: 26.736963 rebuild Loss: 0.000000 Total: 26.736963
+2021-09-02 07:53: Train Epoch 22: 100/158 Loss: 24.061504 rebuild Loss: 0.000000 Total: 24.061504
+2021-09-02 07:53: Train Epoch 22: 120/158 Loss: 27.104788 rebuild Loss: 0.000000 Total: 27.104788
+2021-09-02 07:53: Train Epoch 22: 140/158 Loss: 24.491989 rebuild Loss: 0.000000 Total: 24.491989
+2021-09-02 07:53: **********Train Epoch 22: averaged Loss: 26.330671, tf_ratio: 1.000000
+2021-09-02 07:53: **********Val Epoch 22: average Loss: 28.797004
+2021-09-02 07:53: ##################EMA####################
+2021-09-02 07:53: **********Val Epoch 22: average Loss: 42.703092
+2021-09-02 07:53: *********************************Current best model saved!
+2021-09-02 07:53: Train Epoch 23: 0/158 Loss: 24.496433 rebuild Loss: 0.000000 Total: 24.496433
+2021-09-02 07:53: Train Epoch 23: 20/158 Loss: 26.347704 rebuild Loss: 0.000000 Total: 26.347704
+2021-09-02 07:54: Train Epoch 23: 40/158 Loss: 22.648544 rebuild Loss: 0.000000 Total: 22.648544
+2021-09-02 07:54: Train Epoch 23: 60/158 Loss: 24.712233 rebuild Loss: 0.000000 Total: 24.712233
+2021-09-02 07:54: Train Epoch 23: 80/158 Loss: 21.357767 rebuild Loss: 0.000000 Total: 21.357767
+2021-09-02 07:54: Train Epoch 23: 100/158 Loss: 26.976353 rebuild Loss: 0.000000 Total: 26.976353
+2021-09-02 07:54: Train Epoch 23: 120/158 Loss: 24.727602 rebuild Loss: 0.000000 Total: 24.727602
+2021-09-02 07:54: Train Epoch 23: 140/158 Loss: 23.404568 rebuild Loss: 0.000000 Total: 23.404568
+2021-09-02 07:54: **********Train Epoch 23: averaged Loss: 25.306998, tf_ratio: 1.000000
+2021-09-02 07:54: **********Val Epoch 23: average Loss: 27.445244
+2021-09-02 07:54: ##################EMA####################
+2021-09-02 07:54: **********Val Epoch 23: average Loss: 39.746375
+2021-09-02 07:54: *********************************Current best model saved!
+2021-09-02 07:54: Train Epoch 24: 0/158 Loss: 28.298599 rebuild Loss: 0.000000 Total: 28.298599
+2021-09-02 07:55: Train Epoch 24: 20/158 Loss: 27.236399 rebuild Loss: 0.000000 Total: 27.236399
+2021-09-02 07:55: Train Epoch 24: 40/158 Loss: 24.024858 rebuild Loss: 0.000000 Total: 24.024858
+2021-09-02 07:55: Train Epoch 24: 60/158 Loss: 24.309254 rebuild Loss: 0.000000 Total: 24.309254
+2021-09-02 07:55: Train Epoch 24: 80/158 Loss: 26.935406 rebuild Loss: 0.000000 Total: 26.935406
+2021-09-02 07:55: Train Epoch 24: 100/158 Loss: 26.260883 rebuild Loss: 0.000000 Total: 26.260883
+2021-09-02 07:55: Train Epoch 24: 120/158 Loss: 24.187424 rebuild Loss: 0.000000 Total: 24.187424
+2021-09-02 07:55: Train Epoch 24: 140/158 Loss: 23.206566 rebuild Loss: 0.000000 Total: 23.206566
+2021-09-02 07:55: **********Train Epoch 24: averaged Loss: 24.547782, tf_ratio: 1.000000
+2021-09-02 07:56: **********Val Epoch 24: average Loss: 26.569712
+2021-09-02 07:56: ##################EMA####################
+2021-09-02 07:56: **********Val Epoch 24: average Loss: 37.167145
+2021-09-02 07:56: *********************************Current best model saved!
+2021-09-02 07:56: Train Epoch 25: 0/158 Loss: 23.233541 rebuild Loss: 0.000000 Total: 23.233541
+2021-09-02 07:56: Train Epoch 25: 20/158 Loss: 25.503500 rebuild Loss: 0.000000 Total: 25.503500
+2021-09-02 07:56: Train Epoch 25: 40/158 Loss: 24.629978 rebuild Loss: 0.000000 Total: 24.629978
+2021-09-02 07:56: Train Epoch 25: 60/158 Loss: 22.954515 rebuild Loss: 0.000000 Total: 22.954515
+2021-09-02 07:56: Train Epoch 25: 80/158 Loss: 23.725456 rebuild Loss: 0.000000 Total: 23.725456
+2021-09-02 07:57: Train Epoch 25: 100/158 Loss: 22.807539 rebuild Loss: 0.000000 Total: 22.807539
+2021-09-02 07:57: Train Epoch 25: 120/158 Loss: 25.309155 rebuild Loss: 0.000000 Total: 25.309155
+2021-09-02 07:57: Train Epoch 25: 140/158 Loss: 21.084162 rebuild Loss: 0.000000 Total: 21.084162
+2021-09-02 07:57: **********Train Epoch 25: averaged Loss: 23.833728, tf_ratio: 1.000000
+2021-09-02 07:57: **********Val Epoch 25: average Loss: 25.829568
+2021-09-02 07:57: ##################EMA####################
+2021-09-02 07:57: **********Val Epoch 25: average Loss: 34.934995
+2021-09-02 07:57: *********************************Current best model saved!
+2021-09-02 07:57: Train Epoch 26: 0/158 Loss: 24.369936 rebuild Loss: 0.000000 Total: 24.369936
+2021-09-02 07:57: Train Epoch 26: 20/158 Loss: 24.634573 rebuild Loss: 0.000000 Total: 24.634573
+2021-09-02 07:58: Train Epoch 26: 40/158 Loss: 24.549192 rebuild Loss: 0.000000 Total: 24.549192
+2021-09-02 07:58: Train Epoch 26: 60/158 Loss: 21.531439 rebuild Loss: 0.000000 Total: 21.531439
+2021-09-02 07:58: Train Epoch 26: 80/158 Loss: 21.367138 rebuild Loss: 0.000000 Total: 21.367138
+2021-09-02 07:58: Train Epoch 26: 100/158 Loss: 24.029070 rebuild Loss: 0.000000 Total: 24.029070
+2021-09-02 07:58: Train Epoch 26: 120/158 Loss: 23.490921 rebuild Loss: 0.000000 Total: 23.490921
+2021-09-02 07:58: Train Epoch 26: 140/158 Loss: 22.046808 rebuild Loss: 0.000000 Total: 22.046808
+2021-09-02 07:58: **********Train Epoch 26: averaged Loss: 23.290947, tf_ratio: 1.000000
+2021-09-02 07:58: **********Val Epoch 26: average Loss: 25.075075
+2021-09-02 07:58: ##################EMA####################
+2021-09-02 07:59: **********Val Epoch 26: average Loss: 32.999141
+2021-09-02 07:59: *********************************Current best model saved!
+2021-09-02 07:59: Train Epoch 27: 0/158 Loss: 20.964937 rebuild Loss: 0.000000 Total: 20.964937
+2021-09-02 07:59: Train Epoch 27: 20/158 Loss: 24.242149 rebuild Loss: 0.000000 Total: 24.242149
+2021-09-02 07:59: Train Epoch 27: 40/158 Loss: 21.599960 rebuild Loss: 0.000000 Total: 21.599960
+2021-09-02 07:59: Train Epoch 27: 60/158 Loss: 21.279032 rebuild Loss: 0.000000 Total: 21.279032
+2021-09-02 07:59: Train Epoch 27: 80/158 Loss: 21.820522 rebuild Loss: 0.000000 Total: 21.820522
+2021-09-02 07:59: Train Epoch 27: 100/158 Loss: 24.501043 rebuild Loss: 0.000000 Total: 24.501043
+2021-09-02 07:59: Train Epoch 27: 120/158 Loss: 22.536394 rebuild Loss: 0.000000 Total: 22.536394
+2021-09-02 08:00: Train Epoch 27: 140/158 Loss: 24.904781 rebuild Loss: 0.000000 Total: 24.904781
+2021-09-02 08:00: **********Train Epoch 27: averaged Loss: 22.714971, tf_ratio: 1.000000
+2021-09-02 08:00: **********Val Epoch 27: average Loss: 24.550900
+2021-09-02 08:00: ##################EMA####################
+2021-09-02 08:00: **********Val Epoch 27: average Loss: 31.348732
+2021-09-02 08:00: *********************************Current best model saved!
+2021-09-02 08:00: Train Epoch 28: 0/158 Loss: 22.132893 rebuild Loss: 0.000000 Total: 22.132893
+2021-09-02 08:00: Train Epoch 28: 20/158 Loss: 21.333540 rebuild Loss: 0.000000 Total: 21.333540
+2021-09-02 08:00: Train Epoch 28: 40/158 Loss: 22.274397 rebuild Loss: 0.000000 Total: 22.274397
+2021-09-02 08:00: Train Epoch 28: 60/158 Loss: 21.801056 rebuild Loss: 0.000000 Total: 21.801056
+2021-09-02 08:01: Train Epoch 28: 80/158 Loss: 22.561966 rebuild Loss: 0.000000 Total: 22.561966
+2021-09-02 08:01: Train Epoch 28: 100/158 Loss: 21.983925 rebuild Loss: 0.000000 Total: 21.983925
+2021-09-02 08:01: Train Epoch 28: 120/158 Loss: 21.507034 rebuild Loss: 0.000000 Total: 21.507034
+2021-09-02 08:01: Train Epoch 28: 140/158 Loss: 19.525677 rebuild Loss: 0.000000 Total: 19.525677
+2021-09-02 08:01: **********Train Epoch 28: averaged Loss: 22.275259, tf_ratio: 1.000000
+2021-09-02 08:01: **********Val Epoch 28: average Loss: 24.121082
+2021-09-02 08:01: ##################EMA####################
+2021-09-02 08:01: **********Val Epoch 28: average Loss: 29.922440
+2021-09-02 08:01: *********************************Current best model saved!
+2021-09-02 08:01: Train Epoch 29: 0/158 Loss: 21.936665 rebuild Loss: 0.000000 Total: 21.936665
+2021-09-02 08:02: Train Epoch 29: 20/158 Loss: 21.721024 rebuild Loss: 0.000000 Total: 21.721024
+2021-09-02 08:02: Train Epoch 29: 40/158 Loss: 20.202871 rebuild Loss: 0.000000 Total: 20.202871
+2021-09-02 08:02: Train Epoch 29: 60/158 Loss: 20.515448 rebuild Loss: 0.000000 Total: 20.515448
+2021-09-02 08:02: Train Epoch 29: 80/158 Loss: 23.463221 rebuild Loss: 0.000000 Total: 23.463221
+2021-09-02 08:02: Train Epoch 29: 100/158 Loss: 21.551142 rebuild Loss: 0.000000 Total: 21.551142
+2021-09-02 08:02: Train Epoch 29: 120/158 Loss: 23.211760 rebuild Loss: 0.000000 Total: 23.211760
+2021-09-02 08:02: Train Epoch 29: 140/158 Loss: 22.071238 rebuild Loss: 0.000000 Total: 22.071238
+2021-09-02 08:03: **********Train Epoch 29: averaged Loss: 21.833758, tf_ratio: 1.000000
+2021-09-02 08:03: **********Val Epoch 29: average Loss: 23.714411
+2021-09-02 08:03: ##################EMA####################
+2021-09-02 08:03: **********Val Epoch 29: average Loss: 28.695018
+2021-09-02 08:03: *********************************Current best model saved!
+2021-09-02 08:03: Train Epoch 30: 0/158 Loss: 22.021767 rebuild Loss: 0.000000 Total: 22.021767
+2021-09-02 08:03: Train Epoch 30: 20/158 Loss: 20.232161 rebuild Loss: 0.000000 Total: 20.232161
+2021-09-02 08:03: Train Epoch 30: 40/158 Loss: 21.312292 rebuild Loss: 0.000000 Total: 21.312292
+2021-09-02 08:03: Train Epoch 30: 60/158 Loss: 22.999025 rebuild Loss: 0.000000 Total: 22.999025
+2021-09-02 08:03: Train Epoch 30: 80/158 Loss: 20.494665 rebuild Loss: 0.000000 Total: 20.494665
+2021-09-02 08:04: Train Epoch 30: 100/158 Loss: 23.441391 rebuild Loss: 0.000000 Total: 23.441391
+2021-09-02 08:04: Train Epoch 30: 120/158 Loss: 20.180672 rebuild Loss: 0.000000 Total: 20.180672
+2021-09-02 08:04: Train Epoch 30: 140/158 Loss: 20.582958 rebuild Loss: 0.000000 Total: 20.582958
+2021-09-02 08:04: **********Train Epoch 30: averaged Loss: 21.508399, tf_ratio: 1.000000
+2021-09-02 08:04: **********Val Epoch 30: average Loss: 23.263812
+2021-09-02 08:04: ##################EMA####################
+2021-09-02 08:04: **********Val Epoch 30: average Loss: 27.632512
+2021-09-02 08:04: *********************************Current best model saved!
+2021-09-02 08:04: Train Epoch 31: 0/158 Loss: 21.504692 rebuild Loss: 0.000000 Total: 21.504692
+2021-09-02 08:04: Train Epoch 31: 20/158 Loss: 20.938293 rebuild Loss: 0.000000 Total: 20.938293
+2021-09-02 08:05: Train Epoch 31: 40/158 Loss: 20.346415 rebuild Loss: 0.000000 Total: 20.346415
+2021-09-02 08:05: Train Epoch 31: 60/158 Loss: 19.175819 rebuild Loss: 0.000000 Total: 19.175819
+2021-09-02 08:05: Train Epoch 31: 80/158 Loss: 21.448711 rebuild Loss: 0.000000 Total: 21.448711
+2021-09-02 08:05: Train Epoch 31: 100/158 Loss: 21.502104 rebuild Loss: 0.000000 Total: 21.502104
+2021-09-02 08:05: Train Epoch 31: 120/158 Loss: 18.832033 rebuild Loss: 0.000000 Total: 18.832033
+2021-09-02 08:05: Train Epoch 31: 140/158 Loss: 20.019499 rebuild Loss: 0.000000 Total: 20.019499
+2021-09-02 08:05: **********Train Epoch 31: averaged Loss: 21.261135, tf_ratio: 1.000000
+2021-09-02 08:05: **********Val Epoch 31: average Loss: 22.896812
+2021-09-02 08:05: ##################EMA####################
+2021-09-02 08:06: **********Val Epoch 31: average Loss: 26.711170
+2021-09-02 08:06: *********************************Current best model saved!
+2021-09-02 08:06: Train Epoch 32: 0/158 Loss: 19.813643 rebuild Loss: 0.000000 Total: 19.813643
+2021-09-02 08:06: Train Epoch 32: 20/158 Loss: 22.653336 rebuild Loss: 0.000000 Total: 22.653336
+2021-09-02 08:06: Train Epoch 32: 40/158 Loss: 18.804663 rebuild Loss: 0.000000 Total: 18.804663
+2021-09-02 08:06: Train Epoch 32: 60/158 Loss: 19.276653 rebuild Loss: 0.000000 Total: 19.276653
+2021-09-02 08:06: Train Epoch 32: 80/158 Loss: 20.785006 rebuild Loss: 0.000000 Total: 20.785006
+2021-09-02 08:06: Train Epoch 32: 100/158 Loss: 21.325262 rebuild Loss: 0.000000 Total: 21.325262
+2021-09-02 08:07: Train Epoch 32: 120/158 Loss: 22.250698 rebuild Loss: 0.000000 Total: 22.250698
+2021-09-02 08:07: Train Epoch 32: 140/158 Loss: 20.838202 rebuild Loss: 0.000000 Total: 20.838202
+2021-09-02 08:07: **********Train Epoch 32: averaged Loss: 20.855461, tf_ratio: 1.000000
+2021-09-02 08:07: **********Val Epoch 32: average Loss: 22.583493
+2021-09-02 08:07: ##################EMA####################
+2021-09-02 08:07: **********Val Epoch 32: average Loss: 25.911713
+2021-09-02 08:07: *********************************Current best model saved!
+2021-09-02 08:07: Train Epoch 33: 0/158 Loss: 20.950788 rebuild Loss: 0.000000 Total: 20.950788
+2021-09-02 08:07: Train Epoch 33: 20/158 Loss: 21.874439 rebuild Loss: 0.000000 Total: 21.874439
+2021-09-02 08:07: Train Epoch 33: 40/158 Loss: 20.162992 rebuild Loss: 0.000000 Total: 20.162992
+2021-09-02 08:08: Train Epoch 33: 60/158 Loss: 20.893896 rebuild Loss: 0.000000 Total: 20.893896
+2021-09-02 08:08: Train Epoch 33: 80/158 Loss: 19.927412 rebuild Loss: 0.000000 Total: 19.927412
+2021-09-02 08:08: Train Epoch 33: 100/158 Loss: 21.840616 rebuild Loss: 0.000000 Total: 21.840616
+2021-09-02 08:08: Train Epoch 33: 120/158 Loss: 21.930969 rebuild Loss: 0.000000 Total: 21.930969
+2021-09-02 08:08: Train Epoch 33: 140/158 Loss: 21.546402 rebuild Loss: 0.000000 Total: 21.546402
+2021-09-02 08:08: **********Train Epoch 33: averaged Loss: 20.591034, tf_ratio: 1.000000
+2021-09-02 08:08: **********Val Epoch 33: average Loss: 22.365566
+2021-09-02 08:08: ##################EMA####################
+2021-09-02 08:08: **********Val Epoch 33: average Loss: 25.213870
+2021-09-02 08:08: *********************************Current best model saved!
+2021-09-02 08:08: Train Epoch 34: 0/158 Loss: 21.225801 rebuild Loss: 0.000000 Total: 21.225801
+2021-09-02 08:09: Train Epoch 34: 20/158 Loss: 19.740623 rebuild Loss: 0.000000 Total: 19.740623
+2021-09-02 08:09: Train Epoch 34: 40/158 Loss: 19.544683 rebuild Loss: 0.000000 Total: 19.544683
+2021-09-02 08:09: Train Epoch 34: 60/158 Loss: 18.890547 rebuild Loss: 0.000000 Total: 18.890547
+2021-09-02 08:09: Train Epoch 34: 80/158 Loss: 21.041183 rebuild Loss: 0.000000 Total: 21.041183
+2021-09-02 08:09: Train Epoch 34: 100/158 Loss: 18.818939 rebuild Loss: 0.000000 Total: 18.818939
+2021-09-02 08:09: Train Epoch 34: 120/158 Loss: 20.059935 rebuild Loss: 0.000000 Total: 20.059935
+2021-09-02 08:09: Train Epoch 34: 140/158 Loss: 20.131880 rebuild Loss: 0.000000 Total: 20.131880
+2021-09-02 08:10: **********Train Epoch 34: averaged Loss: 20.298310, tf_ratio: 1.000000
+2021-09-02 08:10: **********Val Epoch 34: average Loss: 22.032501
+2021-09-02 08:10: ##################EMA####################
+2021-09-02 08:10: **********Val Epoch 34: average Loss: 24.598815
+2021-09-02 08:10: *********************************Current best model saved!
+2021-09-02 08:10: Train Epoch 35: 0/158 Loss: 20.675711 rebuild Loss: 0.000000 Total: 20.675711
+2021-09-02 08:10: Train Epoch 35: 20/158 Loss: 20.286442 rebuild Loss: 0.000000 Total: 20.286442
+2021-09-02 08:10: Train Epoch 35: 40/158 Loss: 21.981754 rebuild Loss: 0.000000 Total: 21.981754
+2021-09-02 08:10: Train Epoch 35: 60/158 Loss: 19.525055 rebuild Loss: 0.000000 Total: 19.525055
+2021-09-02 08:11: Train Epoch 35: 80/158 Loss: 20.150978 rebuild Loss: 0.000000 Total: 20.150978
+2021-09-02 08:11: Train Epoch 35: 100/158 Loss: 17.174055 rebuild Loss: 0.000000 Total: 17.174055
+2021-09-02 08:11: Train Epoch 35: 120/158 Loss: 21.085350 rebuild Loss: 0.000000 Total: 21.085350
+2021-09-02 08:11: Train Epoch 35: 140/158 Loss: 21.732260 rebuild Loss: 0.000000 Total: 21.732260
+2021-09-02 08:11: **********Train Epoch 35: averaged Loss: 20.073106, tf_ratio: 1.000000
+2021-09-02 08:11: **********Val Epoch 35: average Loss: 21.811576
+2021-09-02 08:11: ##################EMA####################
+2021-09-02 08:11: **********Val Epoch 35: average Loss: 24.053756
+2021-09-02 08:11: *********************************Current best model saved!
+2021-09-02 08:11: Train Epoch 36: 0/158 Loss: 19.011003 rebuild Loss: 0.000000 Total: 19.011003
+2021-09-02 08:11: Train Epoch 36: 20/158 Loss: 20.925167 rebuild Loss: 0.000000 Total: 20.925167
+2021-09-02 08:12: Train Epoch 36: 40/158 Loss: 19.429625 rebuild Loss: 0.000000 Total: 19.429625
+2021-09-02 08:12: Train Epoch 36: 60/158 Loss: 20.687614 rebuild Loss: 0.000000 Total: 20.687614
+2021-09-02 08:12: Train Epoch 36: 80/158 Loss: 19.986080 rebuild Loss: 0.000000 Total: 19.986080
+2021-09-02 08:12: Train Epoch 36: 100/158 Loss: 20.587074 rebuild Loss: 0.000000 Total: 20.587074
+2021-09-02 08:12: Train Epoch 36: 120/158 Loss: 19.175697 rebuild Loss: 0.000000 Total: 19.175697
+2021-09-02 08:12: Train Epoch 36: 140/158 Loss: 19.920830 rebuild Loss: 0.000000 Total: 19.920830
+2021-09-02 08:12: **********Train Epoch 36: averaged Loss: 19.898549, tf_ratio: 1.000000
+2021-09-02 08:13: **********Val Epoch 36: average Loss: 21.768924
+2021-09-02 08:13: ##################EMA####################
+2021-09-02 08:13: **********Val Epoch 36: average Loss: 23.560820
+2021-09-02 08:13: *********************************Current best model saved!
+2021-09-02 08:13: Train Epoch 37: 0/158 Loss: 19.789509 rebuild Loss: 0.000000 Total: 19.789509
+2021-09-02 08:13: Train Epoch 37: 20/158 Loss: 19.306238 rebuild Loss: 0.000000 Total: 19.306238
+2021-09-02 08:13: Train Epoch 37: 40/158 Loss: 22.255713 rebuild Loss: 0.000000 Total: 22.255713
+2021-09-02 08:13: Train Epoch 37: 60/158 Loss: 20.070534 rebuild Loss: 0.000000 Total: 20.070534
+2021-09-02 08:13: Train Epoch 37: 80/158 Loss: 20.082537 rebuild Loss: 0.000000 Total: 20.082537
+2021-09-02 08:14: Train Epoch 37: 100/158 Loss: 18.667608 rebuild Loss: 0.000000 Total: 18.667608
+2021-09-02 08:14: Train Epoch 37: 120/158 Loss: 18.645643 rebuild Loss: 0.000000 Total: 18.645643
+2021-09-02 08:14: Train Epoch 37: 140/158 Loss: 19.905563 rebuild Loss: 0.000000 Total: 19.905563
+2021-09-02 08:14: **********Train Epoch 37: averaged Loss: 19.703572, tf_ratio: 1.000000
+2021-09-02 08:14: **********Val Epoch 37: average Loss: 21.287510
+2021-09-02 08:14: ##################EMA####################
+2021-09-02 08:14: **********Val Epoch 37: average Loss: 23.136591
+2021-09-02 08:14: *********************************Current best model saved!
+2021-09-02 08:14: Train Epoch 38: 0/158 Loss: 16.745245 rebuild Loss: 0.000000 Total: 16.745245
+2021-09-02 08:14: Train Epoch 38: 20/158 Loss: 20.046608 rebuild Loss: 0.000000 Total: 20.046608
+2021-09-02 08:15: Train Epoch 38: 40/158 Loss: 20.542114 rebuild Loss: 0.000000 Total: 20.542114
+2021-09-02 08:15: Train Epoch 38: 60/158 Loss: 19.035088 rebuild Loss: 0.000000 Total: 19.035088
+2021-09-02 08:15: Train Epoch 38: 80/158 Loss: 19.495844 rebuild Loss: 0.000000 Total: 19.495844
+2021-09-02 08:15: Train Epoch 38: 100/158 Loss: 19.553787 rebuild Loss: 0.000000 Total: 19.553787
+2021-09-02 08:15: Train Epoch 38: 120/158 Loss: 19.103130 rebuild Loss: 0.000000 Total: 19.103130
+2021-09-02 08:15: Train Epoch 38: 140/158 Loss: 18.155539 rebuild Loss: 0.000000 Total: 18.155539
+2021-09-02 08:15: **********Train Epoch 38: averaged Loss: 19.591234, tf_ratio: 1.000000
+2021-09-02 08:15: **********Val Epoch 38: average Loss: 21.423746
+2021-09-02 08:15: ##################EMA####################
+2021-09-02 08:16: **********Val Epoch 38: average Loss: 22.755893
+2021-09-02 08:16: Train Epoch 39: 0/158 Loss: 17.271955 rebuild Loss: 0.000000 Total: 17.271955
+2021-09-02 08:16: Train Epoch 39: 20/158 Loss: 19.723604 rebuild Loss: 0.000000 Total: 19.723604
+2021-09-02 08:16: Train Epoch 39: 40/158 Loss: 19.225107 rebuild Loss: 0.000000 Total: 19.225107
+2021-09-02 08:16: Train Epoch 39: 60/158 Loss: 19.016451 rebuild Loss: 0.000000 Total: 19.016451
+2021-09-02 08:16: Train Epoch 39: 80/158 Loss: 18.830835 rebuild Loss: 0.000000 Total: 18.830835
+2021-09-02 08:16: Train Epoch 39: 100/158 Loss: 20.201982 rebuild Loss: 0.000000 Total: 20.201982
+2021-09-02 08:16: Train Epoch 39: 120/158 Loss: 19.046219 rebuild Loss: 0.000000 Total: 19.046219
+2021-09-02 08:17: Train Epoch 39: 140/158 Loss: 21.834190 rebuild Loss: 0.000000 Total: 21.834190
+2021-09-02 08:17: **********Train Epoch 39: averaged Loss: 19.374848, tf_ratio: 1.000000
+2021-09-02 08:17: **********Val Epoch 39: average Loss: 21.144622
+2021-09-02 08:17: ##################EMA####################
+2021-09-02 08:17: **********Val Epoch 39: average Loss: 22.412586
+2021-09-02 08:17: *********************************Current best model saved!
+2021-09-02 08:17: Train Epoch 40: 0/158 Loss: 18.637886 rebuild Loss: 0.000000 Total: 18.637886
+2021-09-02 08:17: Train Epoch 40: 20/158 Loss: 18.834246 rebuild Loss: 0.000000 Total: 18.834246
+2021-09-02 08:17: Train Epoch 40: 40/158 Loss: 18.562794 rebuild Loss: 0.000000 Total: 18.562794
+2021-09-02 08:18: Train Epoch 40: 60/158 Loss: 19.774536 rebuild Loss: 0.000000 Total: 19.774536
+2021-09-02 08:18: Train Epoch 40: 80/158 Loss: 19.894472 rebuild Loss: 0.000000 Total: 19.894472
+2021-09-02 08:18: Train Epoch 40: 100/158 Loss: 19.353786 rebuild Loss: 0.000000 Total: 19.353786
+2021-09-02 08:18: Train Epoch 40: 120/158 Loss: 18.937746 rebuild Loss: 0.000000 Total: 18.937746
+2021-09-02 08:18: Train Epoch 40: 140/158 Loss: 17.742212 rebuild Loss: 0.000000 Total: 17.742212
+2021-09-02 08:18: **********Train Epoch 40: averaged Loss: 19.253315, tf_ratio: 1.000000
+2021-09-02 08:18: **********Val Epoch 40: average Loss: 21.023057
+2021-09-02 08:18: ##################EMA####################
+2021-09-02 08:18: **********Val Epoch 40: average Loss: 22.106564
+2021-09-02 08:18: *********************************Current best model saved!
+2021-09-02 08:18: Train Epoch 41: 0/158 Loss: 19.724209 rebuild Loss: 0.000000 Total: 19.724209
+2021-09-02 08:19: Train Epoch 41: 20/158 Loss: 19.866390 rebuild Loss: 0.000000 Total: 19.866390
+2021-09-02 08:19: Train Epoch 41: 40/158 Loss: 19.400961 rebuild Loss: 0.000000 Total: 19.400961
+2021-09-02 08:19: Train Epoch 41: 60/158 Loss: 18.226385 rebuild Loss: 0.000000 Total: 18.226385
+2021-09-02 08:19: Train Epoch 41: 80/158 Loss: 18.671961 rebuild Loss: 0.000000 Total: 18.671961
+2021-09-02 08:19: Train Epoch 41: 100/158 Loss: 18.473719 rebuild Loss: 0.000000 Total: 18.473719
+2021-09-02 08:19: Train Epoch 41: 120/158 Loss: 18.460907 rebuild Loss: 0.000000 Total: 18.460907
+2021-09-02 08:19: Train Epoch 41: 140/158 Loss: 17.896690 rebuild Loss: 0.000000 Total: 17.896690
+2021-09-02 08:19: **********Train Epoch 41: averaged Loss: 19.125850, tf_ratio: 1.000000
+2021-09-02 08:20: **********Val Epoch 41: average Loss: 20.820489
+2021-09-02 08:20: ##################EMA####################
+2021-09-02 08:20: **********Val Epoch 41: average Loss: 21.827131
+2021-09-02 08:20: *********************************Current best model saved!
+2021-09-02 08:20: Train Epoch 42: 0/158 Loss: 18.781895 rebuild Loss: 0.000000 Total: 18.781895
+2021-09-02 08:20: Train Epoch 42: 20/158 Loss: 19.799681 rebuild Loss: 0.000000 Total: 19.799681
+2021-09-02 08:20: Train Epoch 42: 40/158 Loss: 19.051456 rebuild Loss: 0.000000 Total: 19.051456
+2021-09-02 08:20: Train Epoch 42: 60/158 Loss: 19.004387 rebuild Loss: 0.000000 Total: 19.004387
+2021-09-02 08:20: Train Epoch 42: 80/158 Loss: 21.028757 rebuild Loss: 0.000000 Total: 21.028757
+2021-09-02 08:20: Train Epoch 42: 100/158 Loss: 19.622919 rebuild Loss: 0.000000 Total: 19.622919
+2021-09-02 08:21: Train Epoch 42: 120/158 Loss: 19.499506 rebuild Loss: 0.000000 Total: 19.499506
+2021-09-02 08:21: Train Epoch 42: 140/158 Loss: 17.903664 rebuild Loss: 0.000000 Total: 17.903664
+2021-09-02 08:21: **********Train Epoch 42: averaged Loss: 18.956137, tf_ratio: 1.000000
+2021-09-02 08:21: **********Val Epoch 42: average Loss: 20.852950
+2021-09-02 08:21: ##################EMA####################
+2021-09-02 08:21: **********Val Epoch 42: average Loss: 21.580790
+2021-09-02 08:21: Train Epoch 43: 0/158 Loss: 20.069752 rebuild Loss: 0.000000 Total: 20.069752
+2021-09-02 08:21: Train Epoch 43: 20/158 Loss: 19.750813 rebuild Loss: 0.000000 Total: 19.750813
+2021-09-02 08:21: Train Epoch 43: 40/158 Loss: 19.327982 rebuild Loss: 0.000000 Total: 19.327982
+2021-09-02 08:22: Train Epoch 43: 60/158 Loss: 18.824896 rebuild Loss: 0.000000 Total: 18.824896
+2021-09-02 08:22: Train Epoch 43: 80/158 Loss: 19.518003 rebuild Loss: 0.000000 Total: 19.518003
+2021-09-02 08:22: Train Epoch 43: 100/158 Loss: 18.239216 rebuild Loss: 0.000000 Total: 18.239216
+2021-09-02 08:22: Train Epoch 43: 120/158 Loss: 19.166830 rebuild Loss: 0.000000 Total: 19.166830
+2021-09-02 08:22: Train Epoch 43: 140/158 Loss: 19.133490 rebuild Loss: 0.000000 Total: 19.133490
+2021-09-02 08:22: **********Train Epoch 43: averaged Loss: 18.860935, tf_ratio: 1.000000
+2021-09-02 08:22: **********Val Epoch 43: average Loss: 20.489599
+2021-09-02 08:22: ##################EMA####################
+2021-09-02 08:23: **********Val Epoch 43: average Loss: 21.372356
+2021-09-02 08:23: *********************************Current best model saved!
+2021-09-02 08:23: Train Epoch 44: 0/158 Loss: 18.628670 rebuild Loss: 0.000000 Total: 18.628670
+2021-09-02 08:23: Train Epoch 44: 20/158 Loss: 19.126106 rebuild Loss: 0.000000 Total: 19.126106
+2021-09-02 08:23: Train Epoch 44: 40/158 Loss: 18.358793 rebuild Loss: 0.000000 Total: 18.358793
+2021-09-02 08:23: Train Epoch 44: 60/158 Loss: 21.255344 rebuild Loss: 0.000000 Total: 21.255344
+2021-09-02 08:23: Train Epoch 44: 80/158 Loss: 19.758518 rebuild Loss: 0.000000 Total: 19.758518
+2021-09-02 08:23: Train Epoch 44: 100/158 Loss: 16.705248 rebuild Loss: 0.000000 Total: 16.705248
+2021-09-02 08:23: Train Epoch 44: 120/158 Loss: 18.484343 rebuild Loss: 0.000000 Total: 18.484343
+2021-09-02 08:24: Train Epoch 44: 140/158 Loss: 18.689451 rebuild Loss: 0.000000 Total: 18.689451
+2021-09-02 08:24: **********Train Epoch 44: averaged Loss: 18.821332, tf_ratio: 1.000000
+2021-09-02 08:24: **********Val Epoch 44: average Loss: 20.450571
+2021-09-02 08:24: ##################EMA####################
+2021-09-02 08:24: **********Val Epoch 44: average Loss: 21.161774
+2021-09-02 08:24: *********************************Current best model saved!
+2021-09-02 08:24: Train Epoch 45: 0/158 Loss: 17.956230 rebuild Loss: 0.000000 Total: 17.956230
+2021-09-02 08:24: Train Epoch 45: 20/158 Loss: 20.201033 rebuild Loss: 0.000000 Total: 20.201033
+2021-09-02 08:24: Train Epoch 45: 40/158 Loss: 18.021891 rebuild Loss: 0.000000 Total: 18.021891
+2021-09-02 08:25: Train Epoch 45: 60/158 Loss: 18.331329 rebuild Loss: 0.000000 Total: 18.331329
+2021-09-02 08:25: Train Epoch 45: 80/158 Loss: 18.040358 rebuild Loss: 0.000000 Total: 18.040358
+2021-09-02 08:25: Train Epoch 45: 100/158 Loss: 19.850443 rebuild Loss: 0.000000 Total: 19.850443
+2021-09-02 08:25: Train Epoch 45: 120/158 Loss: 19.940500 rebuild Loss: 0.000000 Total: 19.940500
+2021-09-02 08:25: Train Epoch 45: 140/158 Loss: 18.994370 rebuild Loss: 0.000000 Total: 18.994370
+2021-09-02 08:25: **********Train Epoch 45: averaged Loss: 18.704278, tf_ratio: 1.000000
+2021-09-02 08:25: **********Val Epoch 45: average Loss: 20.403576
+2021-09-02 08:25: ##################EMA####################
+2021-09-02 08:25: **********Val Epoch 45: average Loss: 20.976871
+2021-09-02 08:25: *********************************Current best model saved!
+2021-09-02 08:25: Train Epoch 46: 0/158 Loss: 21.089964 rebuild Loss: 0.000000 Total: 21.089964
+2021-09-02 08:26: Train Epoch 46: 20/158 Loss: 17.822727 rebuild Loss: 0.000000 Total: 17.822727
+2021-09-02 08:26: Train Epoch 46: 40/158 Loss: 19.757881 rebuild Loss: 0.000000 Total: 19.757881
+2021-09-02 08:26: Train Epoch 46: 60/158 Loss: 19.019285 rebuild Loss: 0.000000 Total: 19.019285
+2021-09-02 08:26: Train Epoch 46: 80/158 Loss: 19.556253 rebuild Loss: 0.000000 Total: 19.556253
+2021-09-02 08:26: Train Epoch 46: 100/158 Loss: 18.710192 rebuild Loss: 0.000000 Total: 18.710192
+2021-09-02 08:26: Train Epoch 46: 120/158 Loss: 18.882698 rebuild Loss: 0.000000 Total: 18.882698
+2021-09-02 08:26: Train Epoch 46: 140/158 Loss: 17.560558 rebuild Loss: 0.000000 Total: 17.560558
+2021-09-02 08:27: **********Train Epoch 46: averaged Loss: 18.584928, tf_ratio: 1.000000
+2021-09-02 08:27: **********Val Epoch 46: average Loss: 20.374734
+2021-09-02 08:27: ##################EMA####################
+2021-09-02 08:27: **********Val Epoch 46: average Loss: 20.810262
+2021-09-02 08:27: *********************************Current best model saved!
+2021-09-02 08:27: Train Epoch 47: 0/158 Loss: 20.437471 rebuild Loss: 0.000000 Total: 20.437471
+2021-09-02 08:27: Train Epoch 47: 20/158 Loss: 17.374855 rebuild Loss: 0.000000 Total: 17.374855
+2021-09-02 08:27: Train Epoch 47: 40/158 Loss: 18.394583 rebuild Loss: 0.000000 Total: 18.394583
+2021-09-02 08:27: Train Epoch 47: 60/158 Loss: 18.538832 rebuild Loss: 0.000000 Total: 18.538832
+2021-09-02 08:27: Train Epoch 47: 80/158 Loss: 20.027401 rebuild Loss: 0.000000 Total: 20.027401
+2021-09-02 08:28: Train Epoch 47: 100/158 Loss: 19.689678 rebuild Loss: 0.000000 Total: 19.689678
+2021-09-02 08:28: Train Epoch 47: 120/158 Loss: 16.430065 rebuild Loss: 0.000000 Total: 16.430065
+2021-09-02 08:28: Train Epoch 47: 140/158 Loss: 20.169123 rebuild Loss: 0.000000 Total: 20.169123
+2021-09-02 08:28: **********Train Epoch 47: averaged Loss: 18.483763, tf_ratio: 1.000000
+2021-09-02 08:28: **********Val Epoch 47: average Loss: 20.277405
+2021-09-02 08:28: ##################EMA####################
+2021-09-02 08:28: **********Val Epoch 47: average Loss: 20.657974
+2021-09-02 08:28: *********************************Current best model saved!
+2021-09-02 08:28: Train Epoch 48: 0/158 Loss: 19.545010 rebuild Loss: 0.000000 Total: 19.545010
+2021-09-02 08:28: Train Epoch 48: 20/158 Loss: 18.515259 rebuild Loss: 0.000000 Total: 18.515259
+2021-09-02 08:29: Train Epoch 48: 40/158 Loss: 20.701859 rebuild Loss: 0.000000 Total: 20.701859
+2021-09-02 08:29: Train Epoch 48: 60/158 Loss: 16.962149 rebuild Loss: 0.000000 Total: 16.962149
+2021-09-02 08:29: Train Epoch 48: 80/158 Loss: 17.685648 rebuild Loss: 0.000000 Total: 17.685648
+2021-09-02 08:29: Train Epoch 48: 100/158 Loss: 18.194754 rebuild Loss: 0.000000 Total: 18.194754
+2021-09-02 08:29: Train Epoch 48: 120/158 Loss: 19.908760 rebuild Loss: 0.000000 Total: 19.908760
+2021-09-02 08:29: Train Epoch 48: 140/158 Loss: 16.130859 rebuild Loss: 0.000000 Total: 16.130859
+2021-09-02 08:29: **********Train Epoch 48: averaged Loss: 18.424553, tf_ratio: 1.000000
+2021-09-02 08:29: **********Val Epoch 48: average Loss: 20.235790
+2021-09-02 08:29: ##################EMA####################
+2021-09-02 08:30: **********Val Epoch 48: average Loss: 20.515004
+2021-09-02 08:30: *********************************Current best model saved!
+2021-09-02 08:30: Train Epoch 49: 0/158 Loss: 19.126120 rebuild Loss: 0.000000 Total: 19.126120
+2021-09-02 08:30: Train Epoch 49: 20/158 Loss: 18.288448 rebuild Loss: 0.000000 Total: 18.288448
+2021-09-02 08:30: Train Epoch 49: 40/158 Loss: 16.525230 rebuild Loss: 0.000000 Total: 16.525230
+2021-09-02 08:30: Train Epoch 49: 60/158 Loss: 18.266146 rebuild Loss: 0.000000 Total: 18.266146
+2021-09-02 08:30: Train Epoch 49: 80/158 Loss: 19.379259 rebuild Loss: 0.000000 Total: 19.379259
+2021-09-02 08:30: Train Epoch 49: 100/158 Loss: 20.001564 rebuild Loss: 0.000000 Total: 20.001564
+2021-09-02 08:30: Train Epoch 49: 120/158 Loss: 19.531553 rebuild Loss: 0.000000 Total: 19.531553
+2021-09-02 08:31: Train Epoch 49: 140/158 Loss: 17.323269 rebuild Loss: 0.000000 Total: 17.323269
+2021-09-02 08:31: **********Train Epoch 49: averaged Loss: 18.397969, tf_ratio: 1.000000
+2021-09-02 08:31: **********Val Epoch 49: average Loss: 20.238565
+2021-09-02 08:31: ##################EMA####################
+2021-09-02 08:31: **********Val Epoch 49: average Loss: 20.387669
+2021-09-02 08:31: Train Epoch 50: 0/158 Loss: 19.126108 rebuild Loss: 0.000000 Total: 19.126108
+2021-09-02 08:31: Train Epoch 50: 20/158 Loss: 19.284681 rebuild Loss: 0.000000 Total: 19.284681
+2021-09-02 08:31: Train Epoch 50: 40/158 Loss: 17.337273 rebuild Loss: 0.000000 Total: 17.337273
+2021-09-02 08:31: Train Epoch 50: 60/158 Loss: 17.812992 rebuild Loss: 0.000000 Total: 17.812992
+2021-09-02 08:32: Train Epoch 50: 80/158 Loss: 17.259287 rebuild Loss: 0.000000 Total: 17.259287
+2021-09-02 08:32: Train Epoch 50: 100/158 Loss: 17.734081 rebuild Loss: 0.000000 Total: 17.734081
+2021-09-02 08:32: Train Epoch 50: 120/158 Loss: 18.125977 rebuild Loss: 0.000000 Total: 18.125977
+2021-09-02 08:32: Train Epoch 50: 140/158 Loss: 18.792103 rebuild Loss: 0.000000 Total: 18.792103
+2021-09-02 08:32: **********Train Epoch 50: averaged Loss: 18.311083, tf_ratio: 1.000000
+2021-09-02 08:32: **********Val Epoch 50: average Loss: 20.144391
+2021-09-02 08:32: ##################EMA####################
+2021-09-02 08:33: **********Val Epoch 50: average Loss: 20.281188
+2021-09-02 08:33: *********************************Current best model saved!
+2021-09-02 08:33: Train Epoch 51: 0/158 Loss: 18.313446 rebuild Loss: 0.000000 Total: 18.313446
+2021-09-02 08:33: Train Epoch 51: 20/158 Loss: 17.464785 rebuild Loss: 0.000000 Total: 17.464785
+2021-09-02 08:33: Train Epoch 51: 40/158 Loss: 19.402454 rebuild Loss: 0.000000 Total: 19.402454
+2021-09-02 08:33: Train Epoch 51: 60/158 Loss: 18.525118 rebuild Loss: 0.000000 Total: 18.525118
+2021-09-02 08:33: Train Epoch 51: 80/158 Loss: 17.657419 rebuild Loss: 0.000000 Total: 17.657419
+2021-09-02 08:33: Train Epoch 51: 100/158 Loss: 17.908056 rebuild Loss: 0.000000 Total: 17.908056
+2021-09-02 08:33: Train Epoch 51: 120/158 Loss: 17.227777 rebuild Loss: 0.000000 Total: 17.227777
+2021-09-02 08:33: Train Epoch 51: 140/158 Loss: 18.347267 rebuild Loss: 0.000000 Total: 18.347267
+2021-09-02 08:34: **********Train Epoch 51: averaged Loss: 18.228022, tf_ratio: 1.000000
+2021-09-02 08:34: **********Val Epoch 51: average Loss: 19.810816
+2021-09-02 08:34: ##################EMA####################
+2021-09-02 08:34: **********Val Epoch 51: average Loss: 20.167669
+2021-09-02 08:34: *********************************Current best model saved!
+2021-09-02 08:34: Train Epoch 52: 0/158 Loss: 16.241953 rebuild Loss: 0.000000 Total: 16.241953
+2021-09-02 08:34: Train Epoch 52: 20/158 Loss: 19.164721 rebuild Loss: 0.000000 Total: 19.164721
+2021-09-02 08:34: Train Epoch 52: 40/158 Loss: 17.970430 rebuild Loss: 0.000000 Total: 17.970430
+2021-09-02 08:34: Train Epoch 52: 60/158 Loss: 16.157576 rebuild Loss: 0.000000 Total: 16.157576
+2021-09-02 08:35: Train Epoch 52: 80/158 Loss: 17.314238 rebuild Loss: 0.000000 Total: 17.314238
+2021-09-02 08:35: Train Epoch 52: 100/158 Loss: 16.526438 rebuild Loss: 0.000000 Total: 16.526438
+2021-09-02 08:35: Train Epoch 52: 120/158 Loss: 15.663870 rebuild Loss: 0.000000 Total: 15.663870
+2021-09-02 08:35: Train Epoch 52: 140/158 Loss: 18.460070 rebuild Loss: 0.000000 Total: 18.460070
+2021-09-02 08:35: **********Train Epoch 52: averaged Loss: 18.173724, tf_ratio: 1.000000
+2021-09-02 08:35: **********Val Epoch 52: average Loss: 19.854604
+2021-09-02 08:35: ##################EMA####################
+2021-09-02 08:35: **********Val Epoch 52: average Loss: 20.082828
+2021-09-02 08:35: Train Epoch 53: 0/158 Loss: 18.685232 rebuild Loss: 0.000000 Total: 18.685232
+2021-09-02 08:36: Train Epoch 53: 20/158 Loss: 17.548969 rebuild Loss: 0.000000 Total: 17.548969
+2021-09-02 08:36: Train Epoch 53: 40/158 Loss: 17.431726 rebuild Loss: 0.000000 Total: 17.431726
+2021-09-02 08:36: Train Epoch 53: 60/158 Loss: 17.641830 rebuild Loss: 0.000000 Total: 17.641830
+2021-09-02 08:36: Train Epoch 53: 80/158 Loss: 19.280962 rebuild Loss: 0.000000 Total: 19.280962
+2021-09-02 08:36: Train Epoch 53: 100/158 Loss: 19.247389 rebuild Loss: 0.000000 Total: 19.247389
+2021-09-02 08:36: Train Epoch 53: 120/158 Loss: 17.276539 rebuild Loss: 0.000000 Total: 17.276539
+2021-09-02 08:36: Train Epoch 53: 140/158 Loss: 19.282578 rebuild Loss: 0.000000 Total: 19.282578
+2021-09-02 08:36: **********Train Epoch 53: averaged Loss: 18.109460, tf_ratio: 1.000000
+2021-09-02 08:37: **********Val Epoch 53: average Loss: 19.895862
+2021-09-02 08:37: ##################EMA####################
+2021-09-02 08:37: **********Val Epoch 53: average Loss: 19.996241
+2021-09-02 08:37: Train Epoch 54: 0/158 Loss: 18.197035 rebuild Loss: 0.000000 Total: 18.197035
+2021-09-02 08:37: Train Epoch 54: 20/158 Loss: 17.707104 rebuild Loss: 0.000000 Total: 17.707104
+2021-09-02 08:37: Train Epoch 54: 40/158 Loss: 17.908318 rebuild Loss: 0.000000 Total: 17.908318
+2021-09-02 08:37: Train Epoch 54: 60/158 Loss: 17.568106 rebuild Loss: 0.000000 Total: 17.568106
+2021-09-02 08:37: Train Epoch 54: 80/158 Loss: 18.629204 rebuild Loss: 0.000000 Total: 18.629204
+2021-09-02 08:37: Train Epoch 54: 100/158 Loss: 18.882025 rebuild Loss: 0.000000 Total: 18.882025
+2021-09-02 08:38: Train Epoch 54: 120/158 Loss: 16.869291 rebuild Loss: 0.000000 Total: 16.869291
+2021-09-02 08:38: Train Epoch 54: 140/158 Loss: 17.619417 rebuild Loss: 0.000000 Total: 17.619417
+2021-09-02 08:38: **********Train Epoch 54: averaged Loss: 18.072438, tf_ratio: 1.000000
+2021-09-02 08:38: **********Val Epoch 54: average Loss: 19.755082
+2021-09-02 08:38: ##################EMA####################
+2021-09-02 08:38: **********Val Epoch 54: average Loss: 19.918084
+2021-09-02 08:38: *********************************Current best model saved!
+2021-09-02 08:38: Train Epoch 55: 0/158 Loss: 17.826603 rebuild Loss: 0.000000 Total: 17.826603
+2021-09-02 08:38: Train Epoch 55: 20/158 Loss: 17.018066 rebuild Loss: 0.000000 Total: 17.018066
+2021-09-02 08:38: Train Epoch 55: 40/158 Loss: 16.751307 rebuild Loss: 0.000000 Total: 16.751307
+2021-09-02 08:39: Train Epoch 55: 60/158 Loss: 19.913963 rebuild Loss: 0.000000 Total: 19.913963
+2021-09-02 08:39: Train Epoch 55: 80/158 Loss: 18.143232 rebuild Loss: 0.000000 Total: 18.143232
+2021-09-02 08:39: Train Epoch 55: 100/158 Loss: 17.545877 rebuild Loss: 0.000000 Total: 17.545877
+2021-09-02 08:39: Train Epoch 55: 120/158 Loss: 17.871468 rebuild Loss: 0.000000 Total: 17.871468
+2021-09-02 08:39: Train Epoch 55: 140/158 Loss: 19.272190 rebuild Loss: 0.000000 Total: 19.272190
+2021-09-02 08:39: **********Train Epoch 55: averaged Loss: 18.031027, tf_ratio: 1.000000
+2021-09-02 08:39: **********Val Epoch 55: average Loss: 19.702563
+2021-09-02 08:39: ##################EMA####################
+2021-09-02 08:39: **********Val Epoch 55: average Loss: 19.839583
+2021-09-02 08:39: *********************************Current best model saved!
+2021-09-02 08:39: Train Epoch 56: 0/158 Loss: 17.863844 rebuild Loss: 0.000000 Total: 17.863844
+2021-09-02 08:40: Train Epoch 56: 20/158 Loss: 18.028278 rebuild Loss: 0.000000 Total: 18.028278
+2021-09-02 08:40: Train Epoch 56: 40/158 Loss: 17.245100 rebuild Loss: 0.000000 Total: 17.245100
+2021-09-02 08:40: Train Epoch 56: 60/158 Loss: 19.117680 rebuild Loss: 0.000000 Total: 19.117680
+2021-09-02 08:40: Train Epoch 56: 80/158 Loss: 17.997236 rebuild Loss: 0.000000 Total: 17.997236
+2021-09-02 08:40: Train Epoch 56: 100/158 Loss: 18.192129 rebuild Loss: 0.000000 Total: 18.192129
+2021-09-02 08:40: Train Epoch 56: 120/158 Loss: 17.372629 rebuild Loss: 0.000000 Total: 17.372629
+2021-09-02 08:40: Train Epoch 56: 140/158 Loss: 18.822500 rebuild Loss: 0.000000 Total: 18.822500
+2021-09-02 08:41: **********Train Epoch 56: averaged Loss: 17.942297, tf_ratio: 1.000000
+2021-09-02 08:41: **********Val Epoch 56: average Loss: 19.725853
+2021-09-02 08:41: ##################EMA####################
+2021-09-02 08:41: **********Val Epoch 56: average Loss: 19.769546
+2021-09-02 08:41: Train Epoch 57: 0/158 Loss: 19.669472 rebuild Loss: 0.000000 Total: 19.669472
+2021-09-02 08:41: Train Epoch 57: 20/158 Loss: 18.229864 rebuild Loss: 0.000000 Total: 18.229864
+2021-09-02 08:41: Train Epoch 57: 40/158 Loss: 18.030165 rebuild Loss: 0.000000 Total: 18.030165
+2021-09-02 08:41: Train Epoch 57: 60/158 Loss: 17.225060 rebuild Loss: 0.000000 Total: 17.225060
+2021-09-02 08:42: Train Epoch 57: 80/158 Loss: 17.838310 rebuild Loss: 0.000000 Total: 17.838310
+2021-09-02 08:42: Train Epoch 57: 100/158 Loss: 18.464895 rebuild Loss: 0.000000 Total: 18.464895
+2021-09-02 08:42: Train Epoch 57: 120/158 Loss: 17.669966 rebuild Loss: 0.000000 Total: 17.669966
+2021-09-02 08:42: Train Epoch 57: 140/158 Loss: 17.543163 rebuild Loss: 0.000000 Total: 17.543163
+2021-09-02 08:42: **********Train Epoch 57: averaged Loss: 17.962116, tf_ratio: 1.000000
+2021-09-02 08:42: **********Val Epoch 57: average Loss: 19.599783
+2021-09-02 08:42: ##################EMA####################
+2021-09-02 08:42: **********Val Epoch 57: average Loss: 19.698770
+2021-09-02 08:42: *********************************Current best model saved!
+2021-09-02 08:42: Train Epoch 58: 0/158 Loss: 17.783398 rebuild Loss: 0.000000 Total: 17.783398
+2021-09-02 08:42: Train Epoch 58: 20/158 Loss: 18.792538 rebuild Loss: 0.000000 Total: 18.792538
+2021-09-02 08:42: Train Epoch 58: 40/158 Loss: 17.668081 rebuild Loss: 0.000000 Total: 17.668081
+2021-09-02 08:42: Train Epoch 58: 60/158 Loss: 15.967550 rebuild Loss: 0.000000 Total: 15.967550
+2021-09-02 08:42: Train Epoch 58: 80/158 Loss: 17.862761 rebuild Loss: 0.000000 Total: 17.862761
+2021-09-02 08:42: Train Epoch 58: 100/158 Loss: 17.919666 rebuild Loss: 0.000000 Total: 17.919666
+2021-09-02 08:42: Train Epoch 58: 120/158 Loss: 16.754293 rebuild Loss: 0.000000 Total: 16.754293
+2021-09-02 08:42: Train Epoch 58: 140/158 Loss: 16.648165 rebuild Loss: 0.000000 Total: 16.648165
+2021-09-02 08:42: **********Train Epoch 58: averaged Loss: 17.885452, tf_ratio: 1.000000
+2021-09-02 08:42: **********Val Epoch 58: average Loss: 19.531009
+2021-09-02 08:42: ##################EMA####################
+2021-09-02 08:42: **********Val Epoch 58: average Loss: 19.651595
+2021-09-02 08:42: *********************************Current best model saved!
+2021-09-02 08:43: Train Epoch 59: 0/158 Loss: 16.867815 rebuild Loss: 0.000000 Total: 16.867815
+2021-09-02 08:43: Train Epoch 59: 20/158 Loss: 17.915972 rebuild Loss: 0.000000 Total: 17.915972
+2021-09-02 08:43: Train Epoch 59: 40/158 Loss: 16.669804 rebuild Loss: 0.000000 Total: 16.669804
+2021-09-02 08:43: Train Epoch 59: 60/158 Loss: 17.693655 rebuild Loss: 0.000000 Total: 17.693655
+2021-09-02 08:43: Train Epoch 59: 80/158 Loss: 19.558573 rebuild Loss: 0.000000 Total: 19.558573
+2021-09-02 08:43: Train Epoch 59: 100/158 Loss: 17.020775 rebuild Loss: 0.000000 Total: 17.020775
+2021-09-02 08:43: Train Epoch 59: 120/158 Loss: 17.409349 rebuild Loss: 0.000000 Total: 17.409349
+2021-09-02 08:43: Train Epoch 59: 140/158 Loss: 18.391882 rebuild Loss: 0.000000 Total: 18.391882
+2021-09-02 08:43: **********Train Epoch 59: averaged Loss: 17.850864, tf_ratio: 1.000000
+2021-09-02 08:43: **********Val Epoch 59: average Loss: 19.521449
+2021-09-02 08:43: ##################EMA####################
+2021-09-02 08:43: **********Val Epoch 59: average Loss: 19.594881
+2021-09-02 08:43: *********************************Current best model saved!
+2021-09-02 08:43: Train Epoch 60: 0/158 Loss: 16.561663 rebuild Loss: 0.000000 Total: 16.561663
+2021-09-02 08:43: Train Epoch 60: 20/158 Loss: 17.210669 rebuild Loss: 0.000000 Total: 17.210669
+2021-09-02 08:43: Train Epoch 60: 40/158 Loss: 17.917242 rebuild Loss: 0.000000 Total: 17.917242
+2021-09-02 08:43: Train Epoch 60: 60/158 Loss: 17.468046 rebuild Loss: 0.000000 Total: 17.468046
+2021-09-02 08:44: Train Epoch 60: 80/158 Loss: 17.939100 rebuild Loss: 0.000000 Total: 17.939100
+2021-09-02 08:44: Train Epoch 60: 100/158 Loss: 17.650724 rebuild Loss: 0.000000 Total: 17.650724
+2021-09-02 08:44: Train Epoch 60: 120/158 Loss: 17.827667 rebuild Loss: 0.000000 Total: 17.827667
+2021-09-02 08:44: Train Epoch 60: 140/158 Loss: 16.780706 rebuild Loss: 0.000000 Total: 16.780706
+2021-09-02 08:44: **********Train Epoch 60: averaged Loss: 17.804355, tf_ratio: 1.000000
+2021-09-02 08:44: **********Val Epoch 60: average Loss: 19.620848
+2021-09-02 08:44: ##################EMA####################
+2021-09-02 08:44: **********Val Epoch 60: average Loss: 19.546789
+2021-09-02 08:44: Train Epoch 61: 0/158 Loss: 18.167606 rebuild Loss: 0.000000 Total: 18.167606
+2021-09-02 08:44: Train Epoch 61: 20/158 Loss: 17.389114 rebuild Loss: 0.000000 Total: 17.389114
+2021-09-02 08:44: Train Epoch 61: 40/158 Loss: 17.890413 rebuild Loss: 0.000000 Total: 17.890413
+2021-09-02 08:44: Train Epoch 61: 60/158 Loss: 16.912621 rebuild Loss: 0.000000 Total: 16.912621
+2021-09-02 08:44: Train Epoch 61: 80/158 Loss: 15.433579 rebuild Loss: 0.000000 Total: 15.433579
+2021-09-02 08:44: Train Epoch 61: 100/158 Loss: 16.378084 rebuild Loss: 0.000000 Total: 16.378084
+2021-09-02 08:44: Train Epoch 61: 120/158 Loss: 18.011967 rebuild Loss: 0.000000 Total: 18.011967
+2021-09-02 08:44: Train Epoch 61: 140/158 Loss: 17.800388 rebuild Loss: 0.000000 Total: 17.800388
+2021-09-02 08:44: **********Train Epoch 61: averaged Loss: 17.750734, tf_ratio: 1.000000
+2021-09-02 08:44: **********Val Epoch 61: average Loss: 19.395179
+2021-09-02 08:44: ##################EMA####################
+2021-09-02 08:45: **********Val Epoch 61: average Loss: 19.496194
+2021-09-02 08:45: *********************************Current best model saved!
+2021-09-02 08:45: Train Epoch 62: 0/158 Loss: 18.182791 rebuild Loss: 0.000000 Total: 18.182791
+2021-09-02 08:45: Train Epoch 62: 20/158 Loss: 18.844271 rebuild Loss: 0.000000 Total: 18.844271
+2021-09-02 08:45: Train Epoch 62: 40/158 Loss: 17.379904 rebuild Loss: 0.000000 Total: 17.379904
+2021-09-02 08:45: Train Epoch 62: 60/158 Loss: 17.868284 rebuild Loss: 0.000000 Total: 17.868284
+2021-09-02 08:45: Train Epoch 62: 80/158 Loss: 17.733273 rebuild Loss: 0.000000 Total: 17.733273
+2021-09-02 08:45: Train Epoch 62: 100/158 Loss: 18.125240 rebuild Loss: 0.000000 Total: 18.125240
+2021-09-02 08:45: Train Epoch 62: 120/158 Loss: 17.840578 rebuild Loss: 0.000000 Total: 17.840578
+2021-09-02 08:45: Train Epoch 62: 140/158 Loss: 17.722708 rebuild Loss: 0.000000 Total: 17.722708
+2021-09-02 08:45: **********Train Epoch 62: averaged Loss: 17.717302, tf_ratio: 1.000000
+2021-09-02 08:45: **********Val Epoch 62: average Loss: 19.349076
+2021-09-02 08:45: ##################EMA####################
+2021-09-02 08:45: **********Val Epoch 62: average Loss: 19.443964
+2021-09-02 08:45: *********************************Current best model saved!
+2021-09-02 08:45: Train Epoch 63: 0/158 Loss: 16.079432 rebuild Loss: 0.000000 Total: 16.079432
+2021-09-02 08:45: Train Epoch 63: 20/158 Loss: 18.824471 rebuild Loss: 0.000000 Total: 18.824471
+2021-09-02 08:45: Train Epoch 63: 40/158 Loss: 17.799749 rebuild Loss: 0.000000 Total: 17.799749
+2021-09-02 08:45: Train Epoch 63: 60/158 Loss: 18.897020 rebuild Loss: 0.000000 Total: 18.897020
+2021-09-02 08:45: Train Epoch 63: 80/158 Loss: 15.759233 rebuild Loss: 0.000000 Total: 15.759233
+2021-09-02 08:46: Train Epoch 63: 100/158 Loss: 17.932020 rebuild Loss: 0.000000 Total: 17.932020
+2021-09-02 08:46: Train Epoch 63: 120/158 Loss: 18.294521 rebuild Loss: 0.000000 Total: 18.294521
+2021-09-02 08:46: Train Epoch 63: 140/158 Loss: 16.129572 rebuild Loss: 0.000000 Total: 16.129572
+2021-09-02 08:46: **********Train Epoch 63: averaged Loss: 17.745228, tf_ratio: 1.000000
+2021-09-02 08:46: **********Val Epoch 63: average Loss: 19.416357
+2021-09-02 08:46: ##################EMA####################
+2021-09-02 08:46: **********Val Epoch 63: average Loss: 19.406063
+2021-09-02 08:46: Train Epoch 64: 0/158 Loss: 17.315636 rebuild Loss: 0.000000 Total: 17.315636
+2021-09-02 08:46: Train Epoch 64: 20/158 Loss: 17.905472 rebuild Loss: 0.000000 Total: 17.905472
+2021-09-02 08:46: Train Epoch 64: 40/158 Loss: 17.649937 rebuild Loss: 0.000000 Total: 17.649937
+2021-09-02 08:46: Train Epoch 64: 60/158 Loss: 17.870810 rebuild Loss: 0.000000 Total: 17.870810
+2021-09-02 08:46: Train Epoch 64: 80/158 Loss: 17.346479 rebuild Loss: 0.000000 Total: 17.346479
+2021-09-02 08:46: Train Epoch 64: 100/158 Loss: 18.777094 rebuild Loss: 0.000000 Total: 18.777094
+2021-09-02 08:46: Train Epoch 64: 120/158 Loss: 18.930489 rebuild Loss: 0.000000 Total: 18.930489
+2021-09-02 08:46: Train Epoch 64: 140/158 Loss: 18.230867 rebuild Loss: 0.000000 Total: 18.230867
+2021-09-02 08:46: **********Train Epoch 64: averaged Loss: 17.689685, tf_ratio: 1.000000
+2021-09-02 08:46: **********Val Epoch 64: average Loss: 19.380204
+2021-09-02 08:46: ##################EMA####################
+2021-09-02 08:46: **********Val Epoch 64: average Loss: 19.367940
+2021-09-02 08:46: Train Epoch 65: 0/158 Loss: 17.652674 rebuild Loss: 0.000000 Total: 17.652674
+2021-09-02 08:47: Train Epoch 65: 20/158 Loss: 17.694828 rebuild Loss: 0.000000 Total: 17.694828
+2021-09-02 08:47: Train Epoch 65: 40/158 Loss: 17.482021 rebuild Loss: 0.000000 Total: 17.482021
+2021-09-02 08:47: Train Epoch 65: 60/158 Loss: 17.240953 rebuild Loss: 0.000000 Total: 17.240953
+2021-09-02 08:47: Train Epoch 65: 80/158 Loss: 17.983379 rebuild Loss: 0.000000 Total: 17.983379
+2021-09-02 08:47: Train Epoch 65: 100/158 Loss: 19.997290 rebuild Loss: 0.000000 Total: 19.997290
+2021-09-02 08:47: Train Epoch 65: 120/158 Loss: 15.938720 rebuild Loss: 0.000000 Total: 15.938720
+2021-09-02 08:47: Train Epoch 65: 140/158 Loss: 17.637497 rebuild Loss: 0.000000 Total: 17.637497
+2021-09-02 08:47: **********Train Epoch 65: averaged Loss: 17.626994, tf_ratio: 1.000000
+2021-09-02 08:47: **********Val Epoch 65: average Loss: 19.315502
+2021-09-02 08:47: ##################EMA####################
+2021-09-02 08:47: **********Val Epoch 65: average Loss: 19.333691
+2021-09-02 08:47: *********************************Current best model saved!
+2021-09-02 08:47: Train Epoch 66: 0/158 Loss: 19.270296 rebuild Loss: 0.000000 Total: 19.270296
+2021-09-02 08:47: Train Epoch 66: 20/158 Loss: 18.245119 rebuild Loss: 0.000000 Total: 18.245119
+2021-09-02 08:47: Train Epoch 66: 40/158 Loss: 16.939796 rebuild Loss: 0.000000 Total: 16.939796
+2021-09-02 08:47: Train Epoch 66: 60/158 Loss: 16.627523 rebuild Loss: 0.000000 Total: 16.627523
+2021-09-02 08:47: Train Epoch 66: 80/158 Loss: 17.909643 rebuild Loss: 0.000000 Total: 17.909643
+2021-09-02 08:48: Train Epoch 66: 100/158 Loss: 17.283113 rebuild Loss: 0.000000 Total: 17.283113
+2021-09-02 08:48: Train Epoch 66: 120/158 Loss: 18.236204 rebuild Loss: 0.000000 Total: 18.236204
+2021-09-02 08:48: Train Epoch 66: 140/158 Loss: 18.348457 rebuild Loss: 0.000000 Total: 18.348457
+2021-09-02 08:48: **********Train Epoch 66: averaged Loss: 17.649911, tf_ratio: 1.000000
+2021-09-02 08:48: **********Val Epoch 66: average Loss: 19.365798
+2021-09-02 08:48: ##################EMA####################
+2021-09-02 08:48: **********Val Epoch 66: average Loss: 19.295417
+2021-09-02 08:48: Train Epoch 67: 0/158 Loss: 16.702854 rebuild Loss: 0.000000 Total: 16.702854
+2021-09-02 08:48: Train Epoch 67: 20/158 Loss: 16.424589 rebuild Loss: 0.000000 Total: 16.424589
+2021-09-02 08:48: Train Epoch 67: 40/158 Loss: 18.405275 rebuild Loss: 0.000000 Total: 18.405275
+2021-09-02 08:48: Train Epoch 67: 60/158 Loss: 17.691923 rebuild Loss: 0.000000 Total: 17.691923
+2021-09-02 08:48: Train Epoch 67: 80/158 Loss: 16.743776 rebuild Loss: 0.000000 Total: 16.743776
+2021-09-02 08:48: Train Epoch 67: 100/158 Loss: 17.193512 rebuild Loss: 0.000000 Total: 17.193512
+2021-09-02 08:48: Train Epoch 67: 120/158 Loss: 18.110544 rebuild Loss: 0.000000 Total: 18.110544
+2021-09-02 08:48: Train Epoch 67: 140/158 Loss: 16.711012 rebuild Loss: 0.000000 Total: 16.711012
+2021-09-02 08:48: **********Train Epoch 67: averaged Loss: 17.613957, tf_ratio: 1.000000
+2021-09-02 08:48: **********Val Epoch 67: average Loss: 19.466367
+2021-09-02 08:48: ##################EMA####################
+2021-09-02 08:49: **********Val Epoch 67: average Loss: 19.267823
+2021-09-02 08:49: Train Epoch 68: 0/158 Loss: 17.612551 rebuild Loss: 0.000000 Total: 17.612551
+2021-09-02 08:49: Train Epoch 68: 20/158 Loss: 18.087225 rebuild Loss: 0.000000 Total: 18.087225
+2021-09-02 08:49: Train Epoch 68: 40/158 Loss: 16.079809 rebuild Loss: 0.000000 Total: 16.079809
+2021-09-02 08:49: Train Epoch 68: 60/158 Loss: 17.756639 rebuild Loss: 0.000000 Total: 17.756639
+2021-09-02 08:49: Train Epoch 68: 80/158 Loss: 17.725588 rebuild Loss: 0.000000 Total: 17.725588
+2021-09-02 08:49: Train Epoch 68: 100/158 Loss: 18.383869 rebuild Loss: 0.000000 Total: 18.383869
+2021-09-02 08:49: Train Epoch 68: 120/158 Loss: 17.736221 rebuild Loss: 0.000000 Total: 17.736221
+2021-09-02 08:49: Train Epoch 68: 140/158 Loss: 16.865797 rebuild Loss: 0.000000 Total: 16.865797
+2021-09-02 08:49: **********Train Epoch 68: averaged Loss: 17.545792, tf_ratio: 1.000000
+2021-09-02 08:49: **********Val Epoch 68: average Loss: 19.323136
+2021-09-02 08:49: ##################EMA####################
+2021-09-02 08:49: **********Val Epoch 68: average Loss: 19.244614
+2021-09-02 08:49: Train Epoch 69: 0/158 Loss: 15.998433 rebuild Loss: 0.000000 Total: 15.998433
+2021-09-02 08:49: Train Epoch 69: 20/158 Loss: 18.044600 rebuild Loss: 0.000000 Total: 18.044600
+2021-09-02 08:49: Train Epoch 69: 40/158 Loss: 17.245174 rebuild Loss: 0.000000 Total: 17.245174
+2021-09-02 08:49: Train Epoch 69: 60/158 Loss: 15.905013 rebuild Loss: 0.000000 Total: 15.905013
+2021-09-02 08:49: Train Epoch 69: 80/158 Loss: 17.833895 rebuild Loss: 0.000000 Total: 17.833895
+2021-09-02 08:50: Train Epoch 69: 100/158 Loss: 16.547564 rebuild Loss: 0.000000 Total: 16.547564
+2021-09-02 08:50: Train Epoch 69: 120/158 Loss: 18.345345 rebuild Loss: 0.000000 Total: 18.345345
+2021-09-02 08:50: Train Epoch 69: 140/158 Loss: 18.339298 rebuild Loss: 0.000000 Total: 18.339298
+2021-09-02 08:50: **********Train Epoch 69: averaged Loss: 17.523249, tf_ratio: 1.000000
+2021-09-02 08:50: **********Val Epoch 69: average Loss: 19.259236
+2021-09-02 08:50: ##################EMA####################
+2021-09-02 08:50: **********Val Epoch 69: average Loss: 19.215275
+2021-09-02 08:50: *********************************Current best model saved!
+2021-09-02 08:50: Train Epoch 70: 0/158 Loss: 17.240229 rebuild Loss: 0.000000 Total: 17.240229
+2021-09-02 08:50: Train Epoch 70: 20/158 Loss: 16.610001 rebuild Loss: 0.000000 Total: 16.610001
+2021-09-02 08:50: Train Epoch 70: 40/158 Loss: 16.467030 rebuild Loss: 0.000000 Total: 16.467030
+2021-09-02 08:50: Train Epoch 70: 60/158 Loss: 17.628073 rebuild Loss: 0.000000 Total: 17.628073
+2021-09-02 08:50: Train Epoch 70: 80/158 Loss: 17.258919 rebuild Loss: 0.000000 Total: 17.258919
+2021-09-02 08:50: Train Epoch 70: 100/158 Loss: 18.746447 rebuild Loss: 0.000000 Total: 18.746447
+2021-09-02 08:50: Train Epoch 70: 120/158 Loss: 17.660143 rebuild Loss: 0.000000 Total: 17.660143
+2021-09-02 08:50: Train Epoch 70: 140/158 Loss: 17.449253 rebuild Loss: 0.000000 Total: 17.449253
+2021-09-02 08:50: **********Train Epoch 70: averaged Loss: 17.509954, tf_ratio: 1.000000
+2021-09-02 08:50: **********Val Epoch 70: average Loss: 19.213637
+2021-09-02 08:50: ##################EMA####################
+2021-09-02 08:51: **********Val Epoch 70: average Loss: 19.184844
+2021-09-02 08:51: *********************************Current best model saved!
+2021-09-02 08:51: Train Epoch 71: 0/158 Loss: 18.055918 rebuild Loss: 0.000000 Total: 18.055918
+2021-09-02 08:51: Train Epoch 71: 20/158 Loss: 17.154488 rebuild Loss: 0.000000 Total: 17.154488
+2021-09-02 08:51: Train Epoch 71: 40/158 Loss: 17.633028 rebuild Loss: 0.000000 Total: 17.633028
+2021-09-02 08:51: Train Epoch 71: 60/158 Loss: 16.333916 rebuild Loss: 0.000000 Total: 16.333916
+2021-09-02 08:51: Train Epoch 71: 80/158 Loss: 18.150888 rebuild Loss: 0.000000 Total: 18.150888
+2021-09-02 08:51: Train Epoch 71: 100/158 Loss: 18.355232 rebuild Loss: 0.000000 Total: 18.355232
+2021-09-02 08:51: Train Epoch 71: 120/158 Loss: 18.417549 rebuild Loss: 0.000000 Total: 18.417549
+2021-09-02 08:51: Train Epoch 71: 140/158 Loss: 15.995791 rebuild Loss: 0.000000 Total: 15.995791
+2021-09-02 08:51: **********Train Epoch 71: averaged Loss: 17.466407, tf_ratio: 1.000000
+2021-09-02 08:51: **********Val Epoch 71: average Loss: 19.329931
+2021-09-02 08:51: ##################EMA####################
+2021-09-02 08:51: **********Val Epoch 71: average Loss: 19.163520
+2021-09-02 08:51: Train Epoch 72: 0/158 Loss: 19.117203 rebuild Loss: 0.000000 Total: 19.117203
+2021-09-02 08:51: Train Epoch 72: 20/158 Loss: 16.212378 rebuild Loss: 0.000000 Total: 16.212378
+2021-09-02 08:51: Train Epoch 72: 40/158 Loss: 16.864223 rebuild Loss: 0.000000 Total: 16.864223
+2021-09-02 08:51: Train Epoch 72: 60/158 Loss: 18.029648 rebuild Loss: 0.000000 Total: 18.029648
+2021-09-02 08:51: Train Epoch 72: 80/158 Loss: 17.355247 rebuild Loss: 0.000000 Total: 17.355247
+2021-09-02 08:52: Train Epoch 72: 100/158 Loss: 16.981606 rebuild Loss: 0.000000 Total: 16.981606
+2021-09-02 08:52: Train Epoch 72: 120/158 Loss: 16.954628 rebuild Loss: 0.000000 Total: 16.954628
+2021-09-02 08:52: Train Epoch 72: 140/158 Loss: 18.505226 rebuild Loss: 0.000000 Total: 18.505226
+2021-09-02 08:52: **********Train Epoch 72: averaged Loss: 17.506223, tf_ratio: 1.000000
+2021-09-02 08:52: **********Val Epoch 72: average Loss: 19.146810
+2021-09-02 08:52: ##################EMA####################
+2021-09-02 08:52: **********Val Epoch 72: average Loss: 19.138148
+2021-09-02 08:52: *********************************Current best model saved!
+2021-09-02 08:52: Train Epoch 73: 0/158 Loss: 18.033342 rebuild Loss: 0.000000 Total: 18.033342
+2021-09-02 08:52: Train Epoch 73: 20/158 Loss: 18.513405 rebuild Loss: 0.000000 Total: 18.513405
+2021-09-02 08:52: Train Epoch 73: 40/158 Loss: 17.519400 rebuild Loss: 0.000000 Total: 17.519400
+2021-09-02 08:52: Train Epoch 73: 60/158 Loss: 18.101200 rebuild Loss: 0.000000 Total: 18.101200
+2021-09-02 08:52: Train Epoch 73: 80/158 Loss: 16.338537 rebuild Loss: 0.000000 Total: 16.338537
+2021-09-02 08:52: Train Epoch 73: 100/158 Loss: 16.607437 rebuild Loss: 0.000000 Total: 16.607437
+2021-09-02 08:52: Train Epoch 73: 120/158 Loss: 17.412075 rebuild Loss: 0.000000 Total: 17.412075
+2021-09-02 08:52: Train Epoch 73: 140/158 Loss: 17.783506 rebuild Loss: 0.000000 Total: 17.783506
+2021-09-02 08:52: **********Train Epoch 73: averaged Loss: 17.435115, tf_ratio: 1.000000
+2021-09-02 08:53: **********Val Epoch 73: average Loss: 19.207695
+2021-09-02 08:53: ##################EMA####################
+2021-09-02 08:53: **********Val Epoch 73: average Loss: 19.117520
+2021-09-02 08:53: Train Epoch 74: 0/158 Loss: 16.818420 rebuild Loss: 0.000000 Total: 16.818420
+2021-09-02 08:53: Train Epoch 74: 20/158 Loss: 16.025297 rebuild Loss: 0.000000 Total: 16.025297
+2021-09-02 08:53: Train Epoch 74: 40/158 Loss: 16.700476 rebuild Loss: 0.000000 Total: 16.700476
+2021-09-02 08:53: Train Epoch 74: 60/158 Loss: 17.596548 rebuild Loss: 0.000000 Total: 17.596548
+2021-09-02 08:53: Train Epoch 74: 80/158 Loss: 17.514265 rebuild Loss: 0.000000 Total: 17.514265
+2021-09-02 08:53: Train Epoch 74: 100/158 Loss: 17.562870 rebuild Loss: 0.000000 Total: 17.562870
+2021-09-02 08:53: Train Epoch 74: 120/158 Loss: 18.787680 rebuild Loss: 0.000000 Total: 18.787680
+2021-09-02 08:53: Train Epoch 74: 140/158 Loss: 17.141813 rebuild Loss: 0.000000 Total: 17.141813
+2021-09-02 08:53: **********Train Epoch 74: averaged Loss: 17.416350, tf_ratio: 1.000000
+2021-09-02 08:53: **********Val Epoch 74: average Loss: 19.407059
+2021-09-02 08:53: ##################EMA####################
+2021-09-02 08:53: **********Val Epoch 74: average Loss: 19.091030
+2021-09-02 08:53: Train Epoch 75: 0/158 Loss: 16.563250 rebuild Loss: 0.000000 Total: 16.563250
+2021-09-02 08:53: Train Epoch 75: 20/158 Loss: 17.163380 rebuild Loss: 0.000000 Total: 17.163380
+2021-09-02 08:53: Train Epoch 75: 40/158 Loss: 17.838078 rebuild Loss: 0.000000 Total: 17.838078
+2021-09-02 08:53: Train Epoch 75: 60/158 Loss: 16.719576 rebuild Loss: 0.000000 Total: 16.719576
+2021-09-02 08:53: Train Epoch 75: 80/158 Loss: 19.437601 rebuild Loss: 0.000000 Total: 19.437601
+2021-09-02 08:54: Train Epoch 75: 100/158 Loss: 15.624084 rebuild Loss: 0.000000 Total: 15.624084
+2021-09-02 08:54: Train Epoch 75: 120/158 Loss: 18.615564 rebuild Loss: 0.000000 Total: 18.615564
+2021-09-02 08:54: Train Epoch 75: 140/158 Loss: 17.246668 rebuild Loss: 0.000000 Total: 17.246668
+2021-09-02 08:54: **********Train Epoch 75: averaged Loss: 17.476711, tf_ratio: 1.000000
+2021-09-02 08:54: **********Val Epoch 75: average Loss: 19.151616
+2021-09-02 08:54: ##################EMA####################
+2021-09-02 08:54: **********Val Epoch 75: average Loss: 19.070747
+2021-09-02 08:54: Train Epoch 76: 0/158 Loss: 17.987951 rebuild Loss: 0.000000 Total: 17.987951
+2021-09-02 08:54: Train Epoch 76: 20/158 Loss: 18.642347 rebuild Loss: 0.000000 Total: 18.642347
+2021-09-02 08:54: Train Epoch 76: 40/158 Loss: 17.205584 rebuild Loss: 0.000000 Total: 17.205584
+2021-09-02 08:54: Train Epoch 76: 60/158 Loss: 17.331417 rebuild Loss: 0.000000 Total: 17.331417
+2021-09-02 08:54: Train Epoch 76: 80/158 Loss: 14.864350 rebuild Loss: 0.000000 Total: 14.864350
+2021-09-02 08:54: Train Epoch 76: 100/158 Loss: 19.090271 rebuild Loss: 0.000000 Total: 19.090271
+2021-09-02 08:54: Train Epoch 76: 120/158 Loss: 16.507473 rebuild Loss: 0.000000 Total: 16.507473
+2021-09-02 08:54: Train Epoch 76: 140/158 Loss: 17.074532 rebuild Loss: 0.000000 Total: 17.074532
+2021-09-02 08:54: **********Train Epoch 76: averaged Loss: 17.346161, tf_ratio: 1.000000
+2021-09-02 08:54: **********Val Epoch 76: average Loss: 19.095758
+2021-09-02 08:54: ##################EMA####################
+2021-09-02 08:55: **********Val Epoch 76: average Loss: 19.057315
+2021-09-02 08:55: *********************************Current best model saved!
+2021-09-02 08:55: Train Epoch 77: 0/158 Loss: 18.058455 rebuild Loss: 0.000000 Total: 18.058455
+2021-09-02 08:55: Train Epoch 77: 20/158 Loss: 18.046618 rebuild Loss: 0.000000 Total: 18.046618
+2021-09-02 08:55: Train Epoch 77: 40/158 Loss: 16.779886 rebuild Loss: 0.000000 Total: 16.779886
+2021-09-02 08:55: Train Epoch 77: 60/158 Loss: 17.369841 rebuild Loss: 0.000000 Total: 17.369841
+2021-09-02 08:55: Train Epoch 77: 80/158 Loss: 18.032408 rebuild Loss: 0.000000 Total: 18.032408
+2021-09-02 08:55: Train Epoch 77: 100/158 Loss: 18.107309 rebuild Loss: 0.000000 Total: 18.107309
+2021-09-02 08:55: Train Epoch 77: 120/158 Loss: 16.110136 rebuild Loss: 0.000000 Total: 16.110136
+2021-09-02 08:55: Train Epoch 77: 140/158 Loss: 18.106058 rebuild Loss: 0.000000 Total: 18.106058
+2021-09-02 08:55: **********Train Epoch 77: averaged Loss: 17.390055, tf_ratio: 1.000000
+2021-09-02 08:55: **********Val Epoch 77: average Loss: 19.116871
+2021-09-02 08:55: ##################EMA####################
+2021-09-02 08:55: **********Val Epoch 77: average Loss: 19.046800
+2021-09-02 08:55: Train Epoch 78: 0/158 Loss: 18.013628 rebuild Loss: 0.000000 Total: 18.013628
+2021-09-02 08:55: Train Epoch 78: 20/158 Loss: 16.768129 rebuild Loss: 0.000000 Total: 16.768129
+2021-09-02 08:55: Train Epoch 78: 40/158 Loss: 18.375845 rebuild Loss: 0.000000 Total: 18.375845
+2021-09-02 08:55: Train Epoch 78: 60/158 Loss: 18.272091 rebuild Loss: 0.000000 Total: 18.272091
+2021-09-02 08:55: Train Epoch 78: 80/158 Loss: 16.656906 rebuild Loss: 0.000000 Total: 16.656906
+2021-09-02 08:55: Train Epoch 78: 100/158 Loss: 16.925360 rebuild Loss: 0.000000 Total: 16.925360
+2021-09-02 08:56: Train Epoch 78: 120/158 Loss: 16.350866 rebuild Loss: 0.000000 Total: 16.350866
+2021-09-02 08:56: Train Epoch 78: 140/158 Loss: 17.781210 rebuild Loss: 0.000000 Total: 17.781210
+2021-09-02 08:56: **********Train Epoch 78: averaged Loss: 17.386953, tf_ratio: 1.000000
+2021-09-02 08:56: **********Val Epoch 78: average Loss: 19.106866
+2021-09-02 08:56: ##################EMA####################
+2021-09-02 08:56: **********Val Epoch 78: average Loss: 19.025491
+2021-09-02 08:56: Train Epoch 79: 0/158 Loss: 16.721468 rebuild Loss: 0.000000 Total: 16.721468
+2021-09-02 08:56: Train Epoch 79: 20/158 Loss: 17.954428 rebuild Loss: 0.000000 Total: 17.954428
+2021-09-02 08:56: Train Epoch 79: 40/158 Loss: 16.225586 rebuild Loss: 0.000000 Total: 16.225586
+2021-09-02 08:56: Train Epoch 79: 60/158 Loss: 16.647734 rebuild Loss: 0.000000 Total: 16.647734
+2021-09-02 08:56: Train Epoch 79: 80/158 Loss: 16.711779 rebuild Loss: 0.000000 Total: 16.711779
+2021-09-02 08:56: Train Epoch 79: 100/158 Loss: 18.732239 rebuild Loss: 0.000000 Total: 18.732239
+2021-09-02 08:56: Train Epoch 79: 120/158 Loss: 17.321665 rebuild Loss: 0.000000 Total: 17.321665
+2021-09-02 08:56: Train Epoch 79: 140/158 Loss: 15.584129 rebuild Loss: 0.000000 Total: 15.584129
+2021-09-02 08:56: **********Train Epoch 79: averaged Loss: 17.334403, tf_ratio: 1.000000
+2021-09-02 08:56: **********Val Epoch 79: average Loss: 19.029831
+2021-09-02 08:56: ##################EMA####################
+2021-09-02 08:57: **********Val Epoch 79: average Loss: 19.004486
+2021-09-02 08:57: *********************************Current best model saved!
+2021-09-02 08:57: Train Epoch 80: 0/158 Loss: 18.594467 rebuild Loss: 0.000000 Total: 18.594467
+2021-09-02 08:57: Train Epoch 80: 20/158 Loss: 17.643160 rebuild Loss: 0.000000 Total: 17.643160
+2021-09-02 08:57: Train Epoch 80: 40/158 Loss: 17.478065 rebuild Loss: 0.000000 Total: 17.478065
+2021-09-02 08:57: Train Epoch 80: 60/158 Loss: 17.672451 rebuild Loss: 0.000000 Total: 17.672451
+2021-09-02 08:57: Train Epoch 80: 80/158 Loss: 17.386919 rebuild Loss: 0.000000 Total: 17.386919
+2021-09-02 08:57: Train Epoch 80: 100/158 Loss: 15.827403 rebuild Loss: 0.000000 Total: 15.827403
+2021-09-02 08:57: Train Epoch 80: 120/158 Loss: 18.073269 rebuild Loss: 0.000000 Total: 18.073269
+2021-09-02 08:57: Train Epoch 80: 140/158 Loss: 17.572798 rebuild Loss: 0.000000 Total: 17.572798
+2021-09-02 08:57: **********Train Epoch 80: averaged Loss: 17.334865, tf_ratio: 1.000000
+2021-09-02 08:57: **********Val Epoch 80: average Loss: 19.064686
+2021-09-02 08:57: ##################EMA####################
+2021-09-02 08:57: **********Val Epoch 80: average Loss: 19.004792
+2021-09-02 08:57: Train Epoch 81: 0/158 Loss: 17.957233 rebuild Loss: 0.000000 Total: 17.957233
+2021-09-02 08:57: Train Epoch 81: 20/158 Loss: 18.222383 rebuild Loss: 0.000000 Total: 18.222383
+2021-09-02 08:57: Train Epoch 81: 40/158 Loss: 17.163651 rebuild Loss: 0.000000 Total: 17.163651
+2021-09-02 08:57: Train Epoch 81: 60/158 Loss: 17.143993 rebuild Loss: 0.000000 Total: 17.143993
+2021-09-02 08:57: Train Epoch 81: 80/158 Loss: 15.737358 rebuild Loss: 0.000000 Total: 15.737358
+2021-09-02 08:58: Train Epoch 81: 100/158 Loss: 17.407290 rebuild Loss: 0.000000 Total: 17.407290
+2021-09-02 08:58: Train Epoch 81: 120/158 Loss: 18.116106 rebuild Loss: 0.000000 Total: 18.116106
+2021-09-02 08:58: Train Epoch 81: 140/158 Loss: 18.701666 rebuild Loss: 0.000000 Total: 18.701666
+2021-09-02 08:58: **********Train Epoch 81: averaged Loss: 17.336064, tf_ratio: 1.000000
+2021-09-02 08:58: **********Val Epoch 81: average Loss: 19.082218
+2021-09-02 08:58: ##################EMA####################
+2021-09-02 08:58: **********Val Epoch 81: average Loss: 18.982819
+2021-09-02 08:58: Train Epoch 82: 0/158 Loss: 15.407239 rebuild Loss: 0.000000 Total: 15.407239
+2021-09-02 08:58: Train Epoch 82: 20/158 Loss: 16.754614 rebuild Loss: 0.000000 Total: 16.754614
+2021-09-02 08:58: Train Epoch 82: 40/158 Loss: 17.601921 rebuild Loss: 0.000000 Total: 17.601921
+2021-09-02 08:58: Train Epoch 82: 60/158 Loss: 15.860605 rebuild Loss: 0.000000 Total: 15.860605
+2021-09-02 08:58: Train Epoch 82: 80/158 Loss: 16.305895 rebuild Loss: 0.000000 Total: 16.305895
+2021-09-02 08:58: Train Epoch 82: 100/158 Loss: 17.008148 rebuild Loss: 0.000000 Total: 17.008148
+2021-09-02 08:58: Train Epoch 82: 120/158 Loss: 18.325830 rebuild Loss: 0.000000 Total: 18.325830
+2021-09-02 08:58: Train Epoch 82: 140/158 Loss: 17.227127 rebuild Loss: 0.000000 Total: 17.227127
+2021-09-02 08:58: **********Train Epoch 82: averaged Loss: 17.277952, tf_ratio: 1.000000
+2021-09-02 08:58: **********Val Epoch 82: average Loss: 19.050171
+2021-09-02 08:58: ##################EMA####################
+2021-09-02 08:58: **********Val Epoch 82: average Loss: 18.967803
+2021-09-02 08:58: Train Epoch 83: 0/158 Loss: 18.017708 rebuild Loss: 0.000000 Total: 18.017708
+2021-09-02 08:58: Train Epoch 83: 20/158 Loss: 16.124105 rebuild Loss: 0.000000 Total: 16.124105
+2021-09-02 08:59: Train Epoch 83: 40/158 Loss: 18.956926 rebuild Loss: 0.000000 Total: 18.956926
+2021-09-02 08:59: Train Epoch 83: 60/158 Loss: 16.823273 rebuild Loss: 0.000000 Total: 16.823273
+2021-09-02 08:59: Train Epoch 83: 80/158 Loss: 16.168745 rebuild Loss: 0.000000 Total: 16.168745
+2021-09-02 08:59: Train Epoch 83: 100/158 Loss: 16.704882 rebuild Loss: 0.000000 Total: 16.704882
+2021-09-02 08:59: Train Epoch 83: 120/158 Loss: 17.840826 rebuild Loss: 0.000000 Total: 17.840826
+2021-09-02 08:59: Train Epoch 83: 140/158 Loss: 18.873110 rebuild Loss: 0.000000 Total: 18.873110
+2021-09-02 08:59: **********Train Epoch 83: averaged Loss: 17.284464, tf_ratio: 1.000000
+2021-09-02 08:59: **********Val Epoch 83: average Loss: 19.233081
+2021-09-02 08:59: ##################EMA####################
+2021-09-02 08:59: **********Val Epoch 83: average Loss: 18.951162
+2021-09-02 08:59: Train Epoch 84: 0/158 Loss: 19.106163 rebuild Loss: 0.000000 Total: 19.106163
+2021-09-02 08:59: Train Epoch 84: 20/158 Loss: 17.347118 rebuild Loss: 0.000000 Total: 17.347118
+2021-09-02 08:59: Train Epoch 84: 40/158 Loss: 16.763332 rebuild Loss: 0.000000 Total: 16.763332
+2021-09-02 08:59: Train Epoch 84: 60/158 Loss: 17.058262 rebuild Loss: 0.000000 Total: 17.058262
+2021-09-02 08:59: Train Epoch 84: 80/158 Loss: 19.425278 rebuild Loss: 0.000000 Total: 19.425278
+2021-09-02 08:59: Train Epoch 84: 100/158 Loss: 15.794189 rebuild Loss: 0.000000 Total: 15.794189
+2021-09-02 08:59: Train Epoch 84: 120/158 Loss: 17.014227 rebuild Loss: 0.000000 Total: 17.014227
+2021-09-02 09:00: Train Epoch 84: 140/158 Loss: 16.660978 rebuild Loss: 0.000000 Total: 16.660978
+2021-09-02 09:00: **********Train Epoch 84: averaged Loss: 17.325666, tf_ratio: 1.000000
+2021-09-02 09:00: **********Val Epoch 84: average Loss: 19.145496
+2021-09-02 09:00: ##################EMA####################
+2021-09-02 09:00: **********Val Epoch 84: average Loss: 18.955094
+2021-09-02 09:00: Train Epoch 85: 0/158 Loss: 17.782658 rebuild Loss: 0.000000 Total: 17.782658
+2021-09-02 09:00: Train Epoch 85: 20/158 Loss: 15.709901 rebuild Loss: 0.000000 Total: 15.709901
+2021-09-02 09:00: Train Epoch 85: 40/158 Loss: 18.253115 rebuild Loss: 0.000000 Total: 18.253115
+2021-09-02 09:00: Train Epoch 85: 60/158 Loss: 17.012957 rebuild Loss: 0.000000 Total: 17.012957
+2021-09-02 09:00: Train Epoch 85: 80/158 Loss: 18.776806 rebuild Loss: 0.000000 Total: 18.776806
+2021-09-02 09:00: Train Epoch 85: 100/158 Loss: 17.154308 rebuild Loss: 0.000000 Total: 17.154308
+2021-09-02 09:00: Train Epoch 85: 120/158 Loss: 17.279217 rebuild Loss: 0.000000 Total: 17.279217
+2021-09-02 09:00: Train Epoch 85: 140/158 Loss: 17.882843 rebuild Loss: 0.000000 Total: 17.882843
+2021-09-02 09:00: **********Train Epoch 85: averaged Loss: 17.249465, tf_ratio: 1.000000
+2021-09-02 09:00: **********Val Epoch 85: average Loss: 19.050227
+2021-09-02 09:00: ##################EMA####################
+2021-09-02 09:00: **********Val Epoch 85: average Loss: 18.928854
+2021-09-02 09:00: Train Epoch 86: 0/158 Loss: 16.278446 rebuild Loss: 0.000000 Total: 16.278446
+2021-09-02 09:00: Train Epoch 86: 20/158 Loss: 17.246239 rebuild Loss: 0.000000 Total: 17.246239
+2021-09-02 09:00: Train Epoch 86: 40/158 Loss: 17.226015 rebuild Loss: 0.000000 Total: 17.226015
+2021-09-02 09:01: Train Epoch 86: 60/158 Loss: 18.213163 rebuild Loss: 0.000000 Total: 18.213163
+2021-09-02 09:01: Train Epoch 86: 80/158 Loss: 16.027514 rebuild Loss: 0.000000 Total: 16.027514
+2021-09-02 09:01: Train Epoch 86: 100/158 Loss: 18.337765 rebuild Loss: 0.000000 Total: 18.337765
+2021-09-02 09:01: Train Epoch 86: 120/158 Loss: 17.712862 rebuild Loss: 0.000000 Total: 17.712862
+2021-09-02 09:01: Train Epoch 86: 140/158 Loss: 17.934879 rebuild Loss: 0.000000 Total: 17.934879
+2021-09-02 09:01: **********Train Epoch 86: averaged Loss: 17.264840, tf_ratio: 1.000000
+2021-09-02 09:01: **********Val Epoch 86: average Loss: 19.132145
+2021-09-02 09:01: ##################EMA####################
+2021-09-02 09:01: **********Val Epoch 86: average Loss: 18.926716
+2021-09-02 09:01: Train Epoch 87: 0/158 Loss: 16.197676 rebuild Loss: 0.000000 Total: 16.197676
+2021-09-02 09:01: Train Epoch 87: 20/158 Loss: 16.679306 rebuild Loss: 0.000000 Total: 16.679306
+2021-09-02 09:01: Train Epoch 87: 40/158 Loss: 16.139154 rebuild Loss: 0.000000 Total: 16.139154
+2021-09-02 09:01: Train Epoch 87: 60/158 Loss: 17.419935 rebuild Loss: 0.000000 Total: 17.419935
+2021-09-02 09:01: Train Epoch 87: 80/158 Loss: 15.683240 rebuild Loss: 0.000000 Total: 15.683240
+2021-09-02 09:01: Train Epoch 87: 100/158 Loss: 17.979342 rebuild Loss: 0.000000 Total: 17.979342
+2021-09-02 09:01: Train Epoch 87: 120/158 Loss: 16.324247 rebuild Loss: 0.000000 Total: 16.324247
+2021-09-02 09:01: Train Epoch 87: 140/158 Loss: 16.057074 rebuild Loss: 0.000000 Total: 16.057074
+2021-09-02 09:02: **********Train Epoch 87: averaged Loss: 17.193876, tf_ratio: 1.000000
+2021-09-02 09:02: **********Val Epoch 87: average Loss: 19.071726
+2021-09-02 09:02: ##################EMA####################
+2021-09-02 09:02: **********Val Epoch 87: average Loss: 18.919597
+2021-09-02 09:02: Train Epoch 88: 0/158 Loss: 17.795700 rebuild Loss: 0.000000 Total: 17.795700
+2021-09-02 09:02: Train Epoch 88: 20/158 Loss: 16.936092 rebuild Loss: 0.000000 Total: 16.936092
+2021-09-02 09:02: Train Epoch 88: 40/158 Loss: 17.155109 rebuild Loss: 0.000000 Total: 17.155109
+2021-09-02 09:02: Train Epoch 88: 60/158 Loss: 16.306652 rebuild Loss: 0.000000 Total: 16.306652
+2021-09-02 09:02: Train Epoch 88: 80/158 Loss: 17.691019 rebuild Loss: 0.000000 Total: 17.691019
+2021-09-02 09:02: Train Epoch 88: 100/158 Loss: 17.763731 rebuild Loss: 0.000000 Total: 17.763731
+2021-09-02 09:02: Train Epoch 88: 120/158 Loss: 16.587030 rebuild Loss: 0.000000 Total: 16.587030
+2021-09-02 09:02: Train Epoch 88: 140/158 Loss: 16.847301 rebuild Loss: 0.000000 Total: 16.847301
+2021-09-02 09:02: **********Train Epoch 88: averaged Loss: 17.176277, tf_ratio: 1.000000
+2021-09-02 09:02: **********Val Epoch 88: average Loss: 19.081080
+2021-09-02 09:02: ##################EMA####################
+2021-09-02 09:02: **********Val Epoch 88: average Loss: 18.906158
+2021-09-02 09:02: Train Epoch 89: 0/158 Loss: 17.266207 rebuild Loss: 0.000000 Total: 17.266207
+2021-09-02 09:02: Train Epoch 89: 20/158 Loss: 17.065134 rebuild Loss: 0.000000 Total: 17.065134
+2021-09-02 09:02: Train Epoch 89: 40/158 Loss: 16.882687 rebuild Loss: 0.000000 Total: 16.882687
+2021-09-02 09:02: Train Epoch 89: 60/158 Loss: 17.455528 rebuild Loss: 0.000000 Total: 17.455528
+2021-09-02 09:03: Train Epoch 89: 80/158 Loss: 18.299454 rebuild Loss: 0.000000 Total: 18.299454
+2021-09-02 09:03: Train Epoch 89: 100/158 Loss: 16.071415 rebuild Loss: 0.000000 Total: 16.071415
+2021-09-02 09:03: Train Epoch 89: 120/158 Loss: 15.859825 rebuild Loss: 0.000000 Total: 15.859825
+2021-09-02 09:03: Train Epoch 89: 140/158 Loss: 17.373049 rebuild Loss: 0.000000 Total: 17.373049
+2021-09-02 09:03: **********Train Epoch 89: averaged Loss: 17.162947, tf_ratio: 1.000000
+2021-09-02 09:03: **********Val Epoch 89: average Loss: 19.013881
+2021-09-02 09:03: ##################EMA####################
+2021-09-02 09:03: **********Val Epoch 89: average Loss: 18.901070
+2021-09-02 09:03: *********************************Current best model saved!
+2021-09-02 09:03: Train Epoch 90: 0/158 Loss: 17.212709 rebuild Loss: 0.000000 Total: 17.212709
+2021-09-02 09:03: Train Epoch 90: 20/158 Loss: 17.514381 rebuild Loss: 0.000000 Total: 17.514381
+2021-09-02 09:03: Train Epoch 90: 40/158 Loss: 16.034111 rebuild Loss: 0.000000 Total: 16.034111
+2021-09-02 09:03: Train Epoch 90: 60/158 Loss: 15.530205 rebuild Loss: 0.000000 Total: 15.530205
+2021-09-02 09:03: Train Epoch 90: 80/158 Loss: 16.458054 rebuild Loss: 0.000000 Total: 16.458054
+2021-09-02 09:03: Train Epoch 90: 100/158 Loss: 17.344536 rebuild Loss: 0.000000 Total: 17.344536
+2021-09-02 09:03: Train Epoch 90: 120/158 Loss: 18.267859 rebuild Loss: 0.000000 Total: 18.267859
+2021-09-02 09:03: Train Epoch 90: 140/158 Loss: 17.388386 rebuild Loss: 0.000000 Total: 17.388386
+2021-09-02 09:03: **********Train Epoch 90: averaged Loss: 17.227916, tf_ratio: 1.000000
+2021-09-02 09:03: **********Val Epoch 90: average Loss: 19.030553
+2021-09-02 09:03: ##################EMA####################
+2021-09-02 09:04: **********Val Epoch 90: average Loss: 18.883460
+2021-09-02 09:04: Train Epoch 91: 0/158 Loss: 17.612667 rebuild Loss: 0.000000 Total: 17.612667
+2021-09-02 09:04: Train Epoch 91: 20/158 Loss: 15.022479 rebuild Loss: 0.000000 Total: 15.022479
+2021-09-02 09:04: Train Epoch 91: 40/158 Loss: 17.315355 rebuild Loss: 0.000000 Total: 17.315355
+2021-09-02 09:04: Train Epoch 91: 60/158 Loss: 16.476839 rebuild Loss: 0.000000 Total: 16.476839
+2021-09-02 09:04: Train Epoch 91: 80/158 Loss: 16.421257 rebuild Loss: 0.000000 Total: 16.421257
+2021-09-02 09:04: Train Epoch 91: 100/158 Loss: 16.552717 rebuild Loss: 0.000000 Total: 16.552717
+2021-09-02 09:04: Train Epoch 91: 120/158 Loss: 15.635408 rebuild Loss: 0.000000 Total: 15.635408
+2021-09-02 09:04: Train Epoch 91: 140/158 Loss: 15.495352 rebuild Loss: 0.000000 Total: 15.495352
+2021-09-02 09:04: **********Train Epoch 91: averaged Loss: 17.135905, tf_ratio: 1.000000
+2021-09-02 09:04: **********Val Epoch 91: average Loss: 19.055778
+2021-09-02 09:04: ##################EMA####################
+2021-09-02 09:04: **********Val Epoch 91: average Loss: 18.881657
+2021-09-02 09:04: Train Epoch 92: 0/158 Loss: 17.682928 rebuild Loss: 0.000000 Total: 17.682928
+2021-09-02 09:04: Train Epoch 92: 20/158 Loss: 17.500462 rebuild Loss: 0.000000 Total: 17.500462
+2021-09-02 09:04: Train Epoch 92: 40/158 Loss: 17.752071 rebuild Loss: 0.000000 Total: 17.752071
+2021-09-02 09:05: Train Epoch 92: 60/158 Loss: 17.887199 rebuild Loss: 0.000000 Total: 17.887199
+2021-09-02 09:05: Train Epoch 92: 80/158 Loss: 17.201868 rebuild Loss: 0.000000 Total: 17.201868
+2021-09-02 09:05: Train Epoch 92: 100/158 Loss: 17.437851 rebuild Loss: 0.000000 Total: 17.437851
+2021-09-02 09:05: Train Epoch 92: 120/158 Loss: 16.192604 rebuild Loss: 0.000000 Total: 16.192604
+2021-09-02 09:05: Train Epoch 92: 140/158 Loss: 16.592098 rebuild Loss: 0.000000 Total: 16.592098
+2021-09-02 09:05: **********Train Epoch 92: averaged Loss: 17.123225, tf_ratio: 1.000000
+2021-09-02 09:05: **********Val Epoch 92: average Loss: 18.965592
+2021-09-02 09:05: ##################EMA####################
+2021-09-02 09:05: **********Val Epoch 92: average Loss: 18.869703
+2021-09-02 09:05: *********************************Current best model saved!
+2021-09-02 09:05: Train Epoch 93: 0/158 Loss: 16.877163 rebuild Loss: 0.000000 Total: 16.877163
+2021-09-02 09:05: Train Epoch 93: 20/158 Loss: 17.225311 rebuild Loss: 0.000000 Total: 17.225311
+2021-09-02 09:05: Train Epoch 93: 40/158 Loss: 16.858717 rebuild Loss: 0.000000 Total: 16.858717
+2021-09-02 09:05: Train Epoch 93: 60/158 Loss: 16.962612 rebuild Loss: 0.000000 Total: 16.962612
+2021-09-02 09:05: Train Epoch 93: 80/158 Loss: 17.980618 rebuild Loss: 0.000000 Total: 17.980618
+2021-09-02 09:05: Train Epoch 93: 100/158 Loss: 17.401112 rebuild Loss: 0.000000 Total: 17.401112
+2021-09-02 09:05: Train Epoch 93: 120/158 Loss: 18.210556 rebuild Loss: 0.000000 Total: 18.210556
+2021-09-02 09:05: Train Epoch 93: 140/158 Loss: 16.356977 rebuild Loss: 0.000000 Total: 16.356977
+2021-09-02 09:05: **********Train Epoch 93: averaged Loss: 17.152492, tf_ratio: 1.000000
+2021-09-02 09:06: **********Val Epoch 93: average Loss: 19.183958
+2021-09-02 09:06: ##################EMA####################
+2021-09-02 09:06: **********Val Epoch 93: average Loss: 18.877195
+2021-09-02 09:06: Train Epoch 94: 0/158 Loss: 18.305006 rebuild Loss: 0.000000 Total: 18.305006
+2021-09-02 09:06: Train Epoch 94: 20/158 Loss: 17.670073 rebuild Loss: 0.000000 Total: 17.670073
+2021-09-02 09:06: Train Epoch 94: 40/158 Loss: 17.067133 rebuild Loss: 0.000000 Total: 17.067133
+2021-09-02 09:06: Train Epoch 94: 60/158 Loss: 18.016064 rebuild Loss: 0.000000 Total: 18.016064
+2021-09-02 09:06: Train Epoch 94: 80/158 Loss: 18.291939 rebuild Loss: 0.000000 Total: 18.291939
+2021-09-02 09:06: Train Epoch 94: 100/158 Loss: 17.870031 rebuild Loss: 0.000000 Total: 17.870031
+2021-09-02 09:06: Train Epoch 94: 120/158 Loss: 15.868901 rebuild Loss: 0.000000 Total: 15.868901
+2021-09-02 09:06: Train Epoch 94: 140/158 Loss: 16.575220 rebuild Loss: 0.000000 Total: 16.575220
+2021-09-02 09:06: **********Train Epoch 94: averaged Loss: 17.170706, tf_ratio: 1.000000
+2021-09-02 09:06: **********Val Epoch 94: average Loss: 19.015653
+2021-09-02 09:06: ##################EMA####################
+2021-09-02 09:06: **********Val Epoch 94: average Loss: 18.864465
+2021-09-02 09:06: Train Epoch 95: 0/158 Loss: 17.369465 rebuild Loss: 0.000000 Total: 17.369465
+2021-09-02 09:06: Train Epoch 95: 20/158 Loss: 15.965362 rebuild Loss: 0.000000 Total: 15.965362
+2021-09-02 09:06: Train Epoch 95: 40/158 Loss: 17.719816 rebuild Loss: 0.000000 Total: 17.719816
+2021-09-02 09:06: Train Epoch 95: 60/158 Loss: 17.734791 rebuild Loss: 0.000000 Total: 17.734791
+2021-09-02 09:06: Train Epoch 95: 80/158 Loss: 16.866947 rebuild Loss: 0.000000 Total: 16.866947
+2021-09-02 09:07: Train Epoch 95: 100/158 Loss: 18.008343 rebuild Loss: 0.000000 Total: 18.008343
+2021-09-02 09:07: Train Epoch 95: 120/158 Loss: 17.976278 rebuild Loss: 0.000000 Total: 17.976278
+2021-09-02 09:07: Train Epoch 95: 140/158 Loss: 16.776052 rebuild Loss: 0.000000 Total: 16.776052
+2021-09-02 09:07: **********Train Epoch 95: averaged Loss: 17.159837, tf_ratio: 1.000000
+2021-09-02 09:07: **********Val Epoch 95: average Loss: 18.987775
+2021-09-02 09:07: ##################EMA####################
+2021-09-02 09:07: **********Val Epoch 95: average Loss: 18.849704
+2021-09-02 09:07: Train Epoch 96: 0/158 Loss: 17.813972 rebuild Loss: 0.000000 Total: 17.813972
+2021-09-02 09:07: Train Epoch 96: 20/158 Loss: 17.256598 rebuild Loss: 0.000000 Total: 17.256598
+2021-09-02 09:07: Train Epoch 96: 40/158 Loss: 17.831625 rebuild Loss: 0.000000 Total: 17.831625
+2021-09-02 09:07: Train Epoch 96: 60/158 Loss: 15.577554 rebuild Loss: 0.000000 Total: 15.577554
+2021-09-02 09:07: Train Epoch 96: 80/158 Loss: 17.514305 rebuild Loss: 0.000000 Total: 17.514305
+2021-09-02 09:07: Train Epoch 96: 100/158 Loss: 17.322559 rebuild Loss: 0.000000 Total: 17.322559
+2021-09-02 09:07: Train Epoch 96: 120/158 Loss: 18.663015 rebuild Loss: 0.000000 Total: 18.663015
+2021-09-02 09:07: Train Epoch 96: 140/158 Loss: 18.008799 rebuild Loss: 0.000000 Total: 18.008799
+2021-09-02 09:07: **********Train Epoch 96: averaged Loss: 17.106298, tf_ratio: 1.000000
+2021-09-02 09:07: **********Val Epoch 96: average Loss: 18.964730
+2021-09-02 09:07: ##################EMA####################
+2021-09-02 09:08: **********Val Epoch 96: average Loss: 18.851772
+2021-09-02 09:08: *********************************Current best model saved!
+2021-09-02 09:08: Train Epoch 97: 0/158 Loss: 16.978792 rebuild Loss: 0.000000 Total: 16.978792
+2021-09-02 09:08: Train Epoch 97: 20/158 Loss: 18.217186 rebuild Loss: 0.000000 Total: 18.217186
+2021-09-02 09:08: Train Epoch 97: 40/158 Loss: 16.145880 rebuild Loss: 0.000000 Total: 16.145880
+2021-09-02 09:08: Train Epoch 97: 60/158 Loss: 18.223591 rebuild Loss: 0.000000 Total: 18.223591
+2021-09-02 09:08: Train Epoch 97: 80/158 Loss: 19.641958 rebuild Loss: 0.000000 Total: 19.641958
+2021-09-02 09:08: Train Epoch 97: 100/158 Loss: 15.743012 rebuild Loss: 0.000000 Total: 15.743012
+2021-09-02 09:08: Train Epoch 97: 120/158 Loss: 17.203526 rebuild Loss: 0.000000 Total: 17.203526
+2021-09-02 09:08: Train Epoch 97: 140/158 Loss: 17.618923 rebuild Loss: 0.000000 Total: 17.618923
+2021-09-02 09:08: **********Train Epoch 97: averaged Loss: 17.067292, tf_ratio: 1.000000
+2021-09-02 09:08: **********Val Epoch 97: average Loss: 18.975367
+2021-09-02 09:08: ##################EMA####################
+2021-09-02 09:08: **********Val Epoch 97: average Loss: 18.846330
+2021-09-02 09:08: Train Epoch 98: 0/158 Loss: 17.212568 rebuild Loss: 0.000000 Total: 17.212568
+2021-09-02 09:08: Train Epoch 98: 20/158 Loss: 16.815119 rebuild Loss: 0.000000 Total: 16.815119
+2021-09-02 09:08: Train Epoch 98: 40/158 Loss: 16.287357 rebuild Loss: 0.000000 Total: 16.287357
+2021-09-02 09:08: Train Epoch 98: 60/158 Loss: 16.871338 rebuild Loss: 0.000000 Total: 16.871338
+2021-09-02 09:08: Train Epoch 98: 80/158 Loss: 18.944529 rebuild Loss: 0.000000 Total: 18.944529
+2021-09-02 09:09: Train Epoch 98: 100/158 Loss: 16.991188 rebuild Loss: 0.000000 Total: 16.991188
+2021-09-02 09:09: Train Epoch 98: 120/158 Loss: 18.307734 rebuild Loss: 0.000000 Total: 18.307734
+2021-09-02 09:09: Train Epoch 98: 140/158 Loss: 17.118933 rebuild Loss: 0.000000 Total: 17.118933
+2021-09-02 09:09: **********Train Epoch 98: averaged Loss: 17.096565, tf_ratio: 1.000000
+2021-09-02 09:09: **********Val Epoch 98: average Loss: 18.943155
+2021-09-02 09:09: ##################EMA####################
+2021-09-02 09:09: **********Val Epoch 98: average Loss: 18.831852
+2021-09-02 09:09: *********************************Current best model saved!
+2021-09-02 09:09: Train Epoch 99: 0/158 Loss: 16.756550 rebuild Loss: 0.000000 Total: 16.756550
+2021-09-02 09:09: Train Epoch 99: 20/158 Loss: 16.682114 rebuild Loss: 0.000000 Total: 16.682114
+2021-09-02 09:09: Train Epoch 99: 40/158 Loss: 17.579765 rebuild Loss: 0.000000 Total: 17.579765
+2021-09-02 09:09: Train Epoch 99: 60/158 Loss: 16.355635 rebuild Loss: 0.000000 Total: 16.355635
+2021-09-02 09:09: Train Epoch 99: 80/158 Loss: 17.146135 rebuild Loss: 0.000000 Total: 17.146135
+2021-09-02 09:09: Train Epoch 99: 100/158 Loss: 18.412642 rebuild Loss: 0.000000 Total: 18.412642
+2021-09-02 09:09: Train Epoch 99: 120/158 Loss: 15.972301 rebuild Loss: 0.000000 Total: 15.972301
+2021-09-02 09:09: Train Epoch 99: 140/158 Loss: 17.507093 rebuild Loss: 0.000000 Total: 17.507093
+2021-09-02 09:09: **********Train Epoch 99: averaged Loss: 17.067544, tf_ratio: 1.000000
+2021-09-02 09:09: **********Val Epoch 99: average Loss: 19.019147
+2021-09-02 09:09: ##################EMA####################
+2021-09-02 09:10: **********Val Epoch 99: average Loss: 18.834996
+2021-09-02 09:10: Train Epoch 100: 0/158 Loss: 18.278986 rebuild Loss: 0.000000 Total: 18.278986
+2021-09-02 09:10: Train Epoch 100: 20/158 Loss: 18.317736 rebuild Loss: 0.000000 Total: 18.317736
+2021-09-02 09:10: Train Epoch 100: 40/158 Loss: 17.133724 rebuild Loss: 0.000000 Total: 17.133724
+2021-09-02 09:10: Train Epoch 100: 60/158 Loss: 17.738083 rebuild Loss: 0.000000 Total: 17.738083
+2021-09-02 09:10: Train Epoch 100: 80/158 Loss: 18.054394 rebuild Loss: 0.000000 Total: 18.054394
+2021-09-02 09:10: Train Epoch 100: 100/158 Loss: 15.673304 rebuild Loss: 0.000000 Total: 15.673304
+2021-09-02 09:10: Train Epoch 100: 120/158 Loss: 17.525166 rebuild Loss: 0.000000 Total: 17.525166
+2021-09-02 09:10: Train Epoch 100: 140/158 Loss: 16.321783 rebuild Loss: 0.000000 Total: 16.321783
+2021-09-02 09:10: **********Train Epoch 100: averaged Loss: 17.057218, tf_ratio: 1.000000
+2021-09-02 09:10: **********Val Epoch 100: average Loss: 18.984195
+2021-09-02 09:10: ##################EMA####################
+2021-09-02 09:10: **********Val Epoch 100: average Loss: 18.828911
+2021-09-02 09:10: Total training time: 101.6858min, best loss: 18.943155
+2021-09-02 09:10: Saving current best model to /home2/hongyuan/ali/ema_eig2/model/experiments/PEMSD4/20210902072858/best_model.pth
+2021-09-02 09:10: Horizon 01, MAE: 18.09, RMSE: 29.05, MAPE: 12.1289%
+2021-09-02 09:10: Horizon 02, MAE: 18.25, RMSE: 29.45, MAPE: 12.2086%
+2021-09-02 09:10: Horizon 03, MAE: 18.48, RMSE: 29.89, MAPE: 12.3576%
+2021-09-02 09:10: Horizon 04, MAE: 18.72, RMSE: 30.31, MAPE: 12.5044%
+2021-09-02 09:10: Horizon 05, MAE: 18.96, RMSE: 30.69, MAPE: 12.6521%
+2021-09-02 09:10: Horizon 06, MAE: 19.19, RMSE: 31.07, MAPE: 12.7942%
+2021-09-02 09:10: Horizon 07, MAE: 19.42, RMSE: 31.43, MAPE: 12.9432%
+2021-09-02 09:10: Horizon 08, MAE: 19.62, RMSE: 31.75, MAPE: 13.0490%
+2021-09-02 09:10: Horizon 09, MAE: 19.80, RMSE: 32.04, MAPE: 13.1305%
+2021-09-02 09:10: Horizon 10, MAE: 20.00, RMSE: 32.36, MAPE: 13.2562%
+2021-09-02 09:10: Horizon 11, MAE: 20.33, RMSE: 32.83, MAPE: 13.4759%
+2021-09-02 09:10: Horizon 12, MAE: 20.83, RMSE: 33.48, MAPE: 13.8182%
+2021-09-02 09:10: Average Horizon, MAE: 19.31, RMSE: 31.22, MAPE: 12.8599%
+2021-09-02 09:10: ##################EMA####################
+2021-09-02 09:10: Horizon 01, MAE: 17.98, RMSE: 28.96, MAPE: 12.0108%
+2021-09-02 09:10: Horizon 02, MAE: 18.14, RMSE: 29.35, MAPE: 12.0814%
+2021-09-02 09:10: Horizon 03, MAE: 18.37, RMSE: 29.80, MAPE: 12.2235%
+2021-09-02 09:10: Horizon 04, MAE: 18.61, RMSE: 30.22, MAPE: 12.3648%
+2021-09-02 09:10: Horizon 05, MAE: 18.85, RMSE: 30.61, MAPE: 12.5134%
+2021-09-02 09:10: Horizon 06, MAE: 19.10, RMSE: 30.99, MAPE: 12.6409%
+2021-09-02 09:10: Horizon 07, MAE: 19.33, RMSE: 31.35, MAPE: 12.7743%
+2021-09-02 09:10: Horizon 08, MAE: 19.52, RMSE: 31.67, MAPE: 12.8683%
+2021-09-02 09:10: Horizon 09, MAE: 19.68, RMSE: 31.96, MAPE: 12.9331%
+2021-09-02 09:10: Horizon 10, MAE: 19.87, RMSE: 32.29, MAPE: 13.0374%
+2021-09-02 09:10: Horizon 11, MAE: 20.20, RMSE: 32.74, MAPE: 13.2455%
+2021-09-02 09:10: Horizon 12, MAE: 20.69, RMSE: 33.39, MAPE: 13.5694%
+2021-09-02 09:10: Average Horizon, MAE: 19.19, RMSE: 31.14, MAPE: 12.6886%
